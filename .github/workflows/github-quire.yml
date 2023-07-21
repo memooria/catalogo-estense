@@ -47,8 +47,8 @@ jobs:
           touch docs/.nojekyll
           touch docs/_assets/.nojekyll
           test -d docs/static || mkdir docs/static
-          echo "quire-sample.memooria.org" > docs/static/CNAME
-          echo "quire-sample.memooria.org" > docs/CNAME
+          echo "${PUBLIC_URL:-catalogo-estense.memooria.org}" > docs/static/CNAME
+          echo "${PUBLIC_URL:-catalogo-estense.memooria.org}" > docs/CNAME
       - name: Git push back
         run: |
           git add docs
