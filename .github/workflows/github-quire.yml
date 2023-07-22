@@ -50,8 +50,10 @@ jobs:
           touch docs/.nojekyll
           touch docs/_assets/.nojekyll
           test -d docs/static || mkdir docs/static
-          echo "${PUBLIC_URL:-catalogo-estense.memooria.org}" > docs/static/CNAME
-          echo "${PUBLIC_URL:-catalogo-estense.memooria.org}" > docs/CNAME
+          echo "${PUBLIC_URL}" > docs/static/CNAME
+          echo "${PUBLIC_URL}" > docs/CNAME
+        env:
+          PUBLIC_URL: ${{ vars.PUBLIC_URL }}
       - name: Git push back
         run: |
           git add docs || echo "INFO - nothing to add"
