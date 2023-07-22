@@ -54,8 +54,8 @@ jobs:
           echo "${PUBLIC_URL:-catalogo-estense.memooria.org}" > docs/CNAME
       - name: Git push back
         run: |
-          git add docs
-          git commit -m "Quire: publishing assets"
+          git add docs || echo "INFO - nothing to add"
+          git commit -m "Quire: publishing assets" || echo "INFO - nothing to commit"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
