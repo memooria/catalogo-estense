@@ -20,4 +20,4 @@ The text excerpts included in this starter theme come from *Walker Evans: Catalo
 
 The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
 
-Test
+Test2
