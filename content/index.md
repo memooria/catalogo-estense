@@ -18,3 +18,5 @@ Giovatest III
 Nuovo contenuto per Giobbe.
 
 Voglio vedere questa modifica
+
+Data di nascita del pittore
