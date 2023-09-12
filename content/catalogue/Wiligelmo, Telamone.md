@@ -1,9 +1,9 @@
 ---
-label: Cat. 1
-title: Human Erosion in California / Migrant Mother
-short_title: Migrant Mother
+label: Cat. 3
+title: Wiligelmo / Telamone
+short_title: Wiligelmo Telamone
 layout: entry
-order: 101
+order: 105
 presentation: side-by-side
 object:
 id: 3
