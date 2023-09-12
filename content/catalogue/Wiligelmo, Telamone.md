@@ -5,7 +5,7 @@ short_title: Wiligelmo, Telamone
 layout: entry
 order: 105
 object:
-  - id: 3
+  - id: 2
 ---
 
 scheda 6 del mio catalogo
