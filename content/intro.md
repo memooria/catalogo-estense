@@ -1,6 +1,6 @@
 ---
-title: Introduction
-subtitle: A Tale of Two Photographers
+title: Introduzione
+subtitle: Un catalogo scientifico digitale delle Gallerie Estensi
 layout: splash
 order: 10
 image: figures/lange-house.jpg
