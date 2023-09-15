@@ -50,24 +50,24 @@ object_list:
       - id: "cat-2-c"
 
   - id: 4
-    artista: prova 
-    titolo: prova
-    datazione: prova
-    supporto: prova
-    dimensioni: prova
-    collocazione: prova
-    link: prova
+    artista: prova4 
+    titolo: prova4
+    datazione: prova4
+    supporto: prova4
+    dimensioni: prova4
+    collocazione: prova4
+    link: prova4
     figure:
       - id: 
 
   - id: 5
     artista: prova 
-    titolo: prova
-    datazione: prova
-    supporto: prova
-    dimensioni: prova
-    collocazione: prova
-    link: prova
+    titolo: prova5
+    datazione: prova5
+    supporto: prova5
+    dimensioni: prova5
+    collocazione: prova5
+    link: prova5
     figure:
       - id:    
 
