@@ -48,3 +48,16 @@ object_list:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
+
+  - id: 4
+    artista: prova4 
+    titolo: prova4
+    datazione: prova4
+    supporto: prova4
+    dimensioni: prova4
+    collocazione: prova4
+    link: prova4
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c" 
