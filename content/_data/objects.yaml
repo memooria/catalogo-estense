@@ -58,4 +58,6 @@ object_list:
     collocazione: prova4
     link: prova4
     figure:
-      - id: 
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c" 
