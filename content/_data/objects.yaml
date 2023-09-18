@@ -177,4 +177,30 @@ object_list:
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 14
+    artista: prova14
+    titolo: prova14
+    datazione: prova14
+    supporto: prova14
+    dimensioni: prova14
+    collocazione: prova14
+    link: prova14
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c" 
+
+  - id: 15
+    artista: prova15
+    titolo: prova15
+    datazione: prova15
+    supporto: prova15
+    dimensioni: prova15
+    collocazione: prova15
+    link: prova15
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
       - id: "cat-2-c" 
