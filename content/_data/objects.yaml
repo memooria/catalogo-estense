@@ -74,3 +74,42 @@ object_list:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
+
+  - id: 6
+    artista: prova6 
+    titolo: prova6
+    datazione: prova6
+    supporto: prova6
+    dimensioni: prova6
+    collocazione: prova6
+    link: prova6
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c" 
+
+  - id: 7
+    artista: prova7 
+    titolo: prova7
+    datazione: prova7
+    supporto: prova7
+    dimensioni: prova7
+    collocazione: prova7
+    link: prova7
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c" 
+  
+  - id: 8
+    artista: prova8 
+    titolo: prova8
+    datazione: prova8
+    supporto: prova8
+    dimensioni: prova8
+    collocazione: prova8
+    link: prova8
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c" 
