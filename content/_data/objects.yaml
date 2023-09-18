@@ -61,3 +61,16 @@ object_list:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
+
+  - id: 5
+    artista: prova5 
+    titolo: prova5
+    datazione: prova5
+    supporto: prova5
+    dimensioni: prova5
+    collocazione: prova5
+    link: prova5
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c" 
