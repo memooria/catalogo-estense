@@ -113,3 +113,29 @@ object_list:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
+
+  - id: 9
+    artista: prova9 
+    titolo: prova9
+    datazione: prova9
+    supporto: prova9
+    dimensioni: prova9
+    collocazione: prova9
+    link: prova9
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c" 
+
+  - id: 10
+    artista: prova10
+    titolo: prova10
+    datazione: prova10
+    supporto: prova10
+    dimensioni: prova10
+    collocazione: prova10
+    link: prova10
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c" 
