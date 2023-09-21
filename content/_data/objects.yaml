@@ -13,36 +13,36 @@ object_display_order:
 object_list:
 
   - id: 1
-    artista: Dorothea Lange
-    titolo: Human Erosion in California / Migrant Mother
-    datazione: 1936
-    supporto: Gelatin silver print
-    dimensioni: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
-    collocazione: J. Paul Getty Museum
-    link:  https://www.getty.edu/art/collection/object/108E2E
+    artista: Wiligelmo (scuola di)
+    titolo: Telamone
+    datazione: ca. 1090 - 1110
+    supporto: Pietra
+    dimensioni: XX x XX cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/821180_Telamone
     figure:
       - id: "cat-1"
 
   - id: 2
-    artista: Walker Evans
-    titolo: Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
-    datazione: 1936
-    supporto: Gelatin silver print
-    dimensioni: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    collocazione: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/object/104A2K
+    artista: Wiligelmo (scuola di)
+    titolo: Madonna col Bambino
+    datazione: ca. 1100 - 1120
+    supporto: Pietra
+    dimensioni: XX x XX cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/821198_Madonna%20dei%20Cattania 
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 3
-    artista: Wiligelmo
-    titolo: Telamone
-    datazione: 1936
-    supporto: Gelatin silver print
-    dimensioni: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    collocazione: J. Paul Getty Museum
+    artista: Pittore veneto
+    titolo: Crocifissione e Deposizione
+    datazione: ca. 1290 - 1310
+    supporto: Tempera su tavola
+    dimensioni: 19.4 x 24.4 cm
+    collocazione: Galleria Estense, Modena
     link: https://www.getty.edu/art/collection/object/104A2K
     figure:
       - id: "cat-2"
@@ -50,52 +50,52 @@ object_list:
       - id: "cat-2-c"
 
   - id: 4
-    artista: prova4 
-    titolo: prova4
-    datazione: prova4
-    supporto: prova4
-    dimensioni: prova4
-    collocazione: prova4
-    link: prova4
+    artista: Francesco di Neri da Volterra 
+    titolo: Madonna col Bambino in trono fra angeli
+    datazione: ca. 1350 - 1360
+    supporto: Tempera su tavola
+    dimensioni: 176 x 97 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/817783_Madonna%20col%20Bambino%20in%20trono%20fra%20angeli
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 5
-    artista: prova5 
-    titolo: prova5
-    datazione: prova5
-    supporto: prova5
-    dimensioni: prova5
-    collocazione: prova5
-    link: prova5
+    artista: Barisini Tomaso detto Tommaso da Modena 
+    titolo: Madonna col Bambino; Discesa di Cristo al Limbo; San Romualdo (?); San Girolamo; San Giovannino; Santa Caterina d'Alessandria
+    datazione: ca. 1345 - 1355
+    supporto: Tempera su tavola
+    dimensioni: 39 x 41 cm 
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818312_Madonna%20col%20Bambino;%20Discesa%20di%20Cristo%20al%20Limbo;%20San%20Romualdo%20(?);%20San%20Girolamo;%20%20San%20Giovannino;%20Santa%20Caterina%20d'Alessandria
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 6
-    artista: prova6 
-    titolo: prova6
-    datazione: prova6
-    supporto: prova6
-    dimensioni: prova6
-    collocazione: prova6
-    link: prova6
+    artista: Agocchiari Barnaba detto Barnaba da Modena 
+    titolo: Madonna col Bambino e santi; Crocifissione
+    datazione: ca. 1350 - 1360
+    supporto: Tempera su tavola
+    dimensioni: 59 x 30 cm 
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818317_Madonna%20col%20Bambino%20e%20santi;%20Crocifissione;%20Annunciazione
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 7
-    artista: prova7 
-    titolo: prova7
-    datazione: prova7
-    supporto: prova7
-    dimensioni: prova7
-    collocazione: prova7
-    link: prova7
+    artista: Serafini Paolo, detto Paolo da Modena 
+    titolo: Madonna dell'Umiltà
+    datazione: 1370
+    supporto: Tempera su tela
+    dimensioni: 140,5 x 140,5 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/817824_Madonna%20dell'Umilt%C3%A0
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
