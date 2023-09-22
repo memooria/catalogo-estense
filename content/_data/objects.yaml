@@ -89,7 +89,7 @@ object_list:
       - id: "cat-2-c" 
 
   - id: 7
-    artista: Serafini Paolo, detto Paolo da Modena 
+    artista: Serafini Paolo detto Paolo da Modena 
     titolo: Madonna dell'Umiltà
     datazione: 1370
     supporto: Tempera su tela
@@ -102,39 +102,39 @@ object_list:
       - id: "cat-2-c" 
   
   - id: 8
-    artista: prova8 
-    titolo: prova8
-    datazione: prova8
-    supporto: prova8
-    dimensioni: prova8
-    collocazione: prova8
-    link: prova8
+    artista: Simone di Filippo Benvenuti detto Simone dei Crocifissi 
+    titolo: Madonna col Bambino in trono fra angeli
+    datazione: ca. 1390 - 1399
+    supporto: Tempera su tavola
+    dimensioni: 96 x 59 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818329_Madonna%20col%20Bambino%20in%20trono%20fra%20angeli
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 9
-    artista: prova9 
-    titolo: prova9
-    datazione: prova9
-    supporto: prova9
-    dimensioni: prova9
-    collocazione: prova9
-    link: prova9
+    artista: Maestro di Torre di Palme (attribuito a) 
+    titolo: Madonna col Bambino; Cristo nel sepolcro; Annunciazione; Santi
+    datazione: ca. 1370 - 1400
+    supporto: Tempera su tavola
+    dimensioni: 67 x 36 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819314_Madonna%20col%20Bambino;%20Cristo%20nel%20sepolcro;%20Annunciazione;%20Santi
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 10
-    artista: prova10
-    titolo: prova10
-    datazione: prova10
-    supporto: prova10
-    dimensioni: prova10
-    collocazione: prova10
-    link: prova10
+    artista: Paolo di Giovanni Fei (attribuito a)	
+    titolo: Madonna col Bambino
+    datazione: ca. 1380 - 1420
+    supporto: Olio su tavola
+    dimensioni: 80,5 x 43 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819340_Madonna%20col%20Bambino
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
