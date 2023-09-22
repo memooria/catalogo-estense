@@ -89,7 +89,7 @@ object_list:
       - id: "cat-2-c" 
 
   - id: 7
-    artista: Serafini Paolo, detto Paolo da Modena 
+    artista: Serafini Paolo detto Paolo da Modena 
     titolo: Madonna dell'Umiltà
     datazione: 1370
     supporto: Tempera su tela
@@ -102,104 +102,104 @@ object_list:
       - id: "cat-2-c" 
   
   - id: 8
-    artista: prova8 
-    titolo: prova8
-    datazione: prova8
-    supporto: prova8
-    dimensioni: prova8
-    collocazione: prova8
-    link: prova8
+    artista: Simone di Filippo Benvenuti detto Simone dei Crocifissi 
+    titolo: Madonna col Bambino in trono fra angeli
+    datazione: ca. 1390 - 1399
+    supporto: Tempera su tavola
+    dimensioni: 96 x 59 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818329_Madonna%20col%20Bambino%20in%20trono%20fra%20angeli
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 9
-    artista: prova9 
-    titolo: prova9
-    datazione: prova9
-    supporto: prova9
-    dimensioni: prova9
-    collocazione: prova9
-    link: prova9
+    artista: Maestro di Torre di Palme (attribuito a) 
+    titolo: Madonna col Bambino; Cristo nel sepolcro; Annunciazione; Santi
+    datazione: ca. 1370 - 1400
+    supporto: Tempera su tavola
+    dimensioni: 67 x 36 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819314_Madonna%20col%20Bambino;%20Cristo%20nel%20sepolcro;%20Annunciazione;%20Santi
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 10
-    artista: prova10
-    titolo: prova10
-    datazione: prova10
-    supporto: prova10
-    dimensioni: prova10
-    collocazione: prova10
-    link: prova10
+    artista: Paolo di Giovanni Fei (attribuito a)	
+    titolo: Madonna col Bambino
+    datazione: ca. 1380 - 1420
+    supporto: Olio su tavola
+    dimensioni: 80,5 x 43 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819340_Madonna%20col%20Bambino
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 11
-    artista: prova11
-    titolo: prova11
-    datazione: prova11
-    supporto: prova11
-    dimensioni: prova11
-    collocazione: prova11
-    link: prova11
+    artista: Giovanni di Paolo
+    titolo: Adorazione dei Magi
+    datazione: ca. 1435 - 1450
+    supporto: Tempera su tavola 
+    dimensioni: 39,5 x 28,5 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819014_Adorazione%20dei%20Magi
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 12
-    artista: prova12
-    titolo: prova12
-    datazione: prova12
-    supporto: prova12
-    dimensioni: prova12
-    collocazione: prova12
-    link: prova12
+    artista: Arcangelo di Cola da Camerino
+    titolo: Esequie di san Zenobi; Martirio di sant'Andrea; Deposizione di Cristo; Martirio di san Giovanni Evangelista; Martirio di santa Caterina d'Alessandria
+    datazione: ca. 1420 - 1430 
+    supporto: Tempera su tavola
+    dimensioni: opera senza cornice 41 x 158 x 6 cm; opera con cornice	152	x 40 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819315_Esequie%20di%20san%20Zenobi;%20Martirio%20di%20sant'Andrea;%20Deposizione%20di%20Cristo;%20Martirio%20di%20san%20Giovanni%20Evangelista;%20Martirio%20di%20santa%20Caterina%20d'Alessandria
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
   
   - id: 13
-    artista: prova13
-    titolo: prova13
-    datazione: prova13
-    supporto: prova13
-    dimensioni: prova13
-    collocazione: prova13
-    link: prova13
+    artista: Secondo Maestro di Carpi
+    titolo: Leggenda di san Giovanni Boccadoro
+    datazione: ca. 1430
+    supporto: olio su tavola
+    dimensioni: 44,5 x 144 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818983_Leggenda%20di%20san%20Giovanni%20Boccadoro
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 14
-    artista: prova14
-    titolo: prova14
-    datazione: prova14
-    supporto: prova14
-    dimensioni: prova14
-    collocazione: prova14
-    link: prova14
+    artista: Apollonio di Giovanni
+    titolo: La novella di Griselda
+    datazione: ca. 1440
+    supporto: Tempera su tavola
+    dimensioni: opera senza cornice	38 x	150,5	cm; opera con cornice 54 x 165 x 11 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820179_La%20novella%20di%20Griselda
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 15
-    artista: prova15
-    titolo: prova15
-    datazione: prova15
-    supporto: prova15
-    dimensioni: prova15
-    collocazione: prova15
-    link: prova15
+    artista: Giovanni Antonio Bellinzoni da Pesaro
+    titolo: San Giovanni Battista
+    datazione: ca. 1460 - 1470
+    supporto: Tempera su tavola
+    dimensioni: opera senza cornice	169 x	76 cm;	opera con cornice	168	x	75 x 8 cm			
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819721_San%20Giovanni%20Battista
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
