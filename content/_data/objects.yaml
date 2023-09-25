@@ -206,66 +206,326 @@ object_list:
       - id: "cat-2-c" 
 
   - id: 16
-    artista: prova16
-    titolo: prova16
-    datazione: prova16
-    supporto: prova16
-    dimensioni: prova16
-    collocazione: prova16
-    link: prova16
+    artista: Francesco Botticini
+    titolo: Adorazione del Bambino
+    datazione: ca. 1470 - 1480
+    supporto: Olio su tavola
+    dimensioni: opera senza cornice 102	x 61 cm; opera con cornice 140 x 98 cm 
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818965_Adorazione%20del%20Bambino
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 17
-    artista: prova17
-    titolo: prova17
-    datazione: prova17
-    supporto: prova17
-    dimensioni: prova17
-    collocazione: prova17
-    link: prova17
+    artista: Lorenzo di Credi			
+    titolo: Martirio di san Sebastiano
+    datazione: ca. 1480 - 1490
+    supporto: Olio su tavola
+    dimensioni: opera senza cornice 43,5 x 27 cm;	listello 58 x	42,5 cm	
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818702_Martirio%20di%20san%20Sebastiano
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 18
-    artista: prova18
-    titolo: prova18
-    datazione: prova18
-    supporto: prova18
-    dimensioni: prova18
-    collocazione: prova18
-    link: prova18
+    artista: Sandro Botticelli (scuola di)		
+    titolo: Madonna col Bambino e san Giovanni Battista	
+    datazione: ca. 1475 - 1500
+    supporto: Olio su tavola
+    dimensioni: diametro 119 cm	
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819435_Madonna%20col%20Bambino%20e%20san%20Giovanni%20Battista
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 19
-    artista: prova19
-    titolo: prova19
-    datazione: prova19
-    supporto: prova19
-    dimensioni: prova19
-    collocazione: prova19
-    link: prova19
+    artista: Sandro Botticelli (scuola di)	
+    titolo: Madonna col Bambino
+    datazione: ca. 1475 - 1500
+    supporto: Olio su tavola
+    dimensioni: 66 x 36,5 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820335_Madonna%20col%20Bambino
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 20
-    artista: prova20
-    titolo: prova20
-    datazione: prova20
-    supporto: prova20
-    dimensioni: prova20
-    collocazione: prova20
-    link: prova20
+    artista: Monte di Giovanni di Miniato detto del Fora	
+    titolo: Annunciazione	
+    datazione: n.d.
+    supporto: Olio su tavola
+    dimensioni: 30 x 59 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/815611_Annunciazione
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
-      - id: "cat-2-c" 
+      - id: "cat-2-c"
+
+  - id: 21
+    artista: Scuola dell'Italia centrale		
+    titolo: Pietà
+    datazione: ca. 1480 - 1500
+    supporto: Olio su tavola
+    dimensioni: 75 x 132 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819714_Piet%C3%A0
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 22
+    artista: Scuola viterbese (?)	
+    titolo: Crocifissione
+    datazione: ca. 1490 - 1510
+    supporto: Olio su tela
+    dimensioni: 130 x 90 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/812395_Crocifissione
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 23
+    artista: Michele da Firenze
+    titolo: Compianto su Cristo morto
+    datazione: prova23
+    supporto: Terracotta policroma
+    dimensioni: n.d.
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/815161_Compianto%20su%20Cristo%20morto
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 24
+    artista: Antonio Passarino
+    titolo: Sant'Antonio martire
+    datazione: 1489
+    supporto: Onice
+    dimensioni: n.d.
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820759_Sant'Antonino%20Martire
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 25
+    artista: Angelo e Bartolomeo degli Erri	
+    titolo: Polittico dell'Ospedale della Morte (Incoronazione della Vergine e santi)
+    datazione: 1462 - 1466	
+    supporto: Tempera su tavola
+    dimensioni: 288 x 220 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819211_Polittico%20dell'Ospedale%20della%20Morte
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 26
+    artista: prova26
+    titolo: prova26
+    datazione: prova26
+    supporto: prova26
+    dimensioni: prova26
+    collocazione: prova26
+    link: prova26
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 27
+    artista: prova27
+    titolo: prova27
+    datazione: prova27
+    supporto: prova27
+    dimensioni: prova27
+    collocazione: prova27
+    link: prova27
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 28
+    artista: prova28
+    titolo: prova28
+    datazione: prova28
+    supporto: prova28
+    dimensioni: prova28
+    collocazione: prova28
+    link: prova28
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 29
+    artista: prova29
+    titolo: prova29
+    datazione: prova29
+    supporto: prova29
+    dimensioni: prova29
+    collocazione: prova29
+    link: prova29
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 30
+    artista: prova30
+    titolo: prova30
+    datazione: prova30
+    supporto: prova30
+    dimensioni: prova30
+    collocazione: prova30
+    link: prova30
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 31
+    artista: prova31
+    titolo: prova31
+    datazione: prova31
+    supporto: prova31
+    dimensioni: prova31
+    collocazione: prova31
+    link: prova31
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 32
+    artista: prova32
+    titolo: prova32
+    datazione: prova32
+    supporto: prova32
+    dimensioni: prova32
+    collocazione: prova32
+    link: prova32
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 33
+    artista: prova33
+    titolo: prova33
+    datazione: prova33
+    supporto: prova33
+    dimensioni: prova33
+    collocazione: prova33
+    link: prova33
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 34
+    artista: prova34
+    titolo: prova34
+    datazione: prova34
+    supporto: prova34
+    dimensioni: prova34
+    collocazione: prova34
+    link: prova34
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 35
+    artista: prova35
+    titolo: prova35
+    datazione: prova35
+    supporto: prova35
+    dimensioni: prova35
+    collocazione: prova35
+    link: prova35
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 36
+    artista: prova36
+    titolo: prova36
+    datazione: prova36
+    supporto: prova36
+    dimensioni: prova36
+    collocazione: prova36
+    link: prova36
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 37
+    artista: prova37
+    titolo: prova37
+    datazione: prova37
+    supporto: prova37
+    dimensioni: prova37
+    collocazione: prova37
+    link: prova37
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 38
+    artista: prova38
+    titolo: prova38
+    datazione: prova38
+    supporto: prova38
+    dimensioni: prova38
+    collocazione: prova38
+    link: prova38
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 39
+    artista: prova39
+    titolo: prova39
+    datazione: prova39
+    supporto: prova39
+    dimensioni: prova39
+    collocazione: prova39
+    link: prova39
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 40
+    artista: prova40
+    titolo: prova40
+    datazione: prova40
+    supporto: prova40
+    dimensioni: prova40
+    collocazione: prova40
+    link: prova40
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
