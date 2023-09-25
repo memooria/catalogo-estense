@@ -271,65 +271,65 @@ object_list:
       - id: "cat-2-c"
 
   - id: 21
-    artista: prova21
-    titolo: prova21
-    datazione: prova21
-    supporto: prova21
-    dimensioni: prova21
-    collocazione: prova21
-    link: prova21
+    artista: Scuola dell'Italia centrale		
+    titolo: Pietà
+    datazione: ca. 1480 - 1500
+    supporto: Olio su tavola
+    dimensioni: 75 x 132 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819714_Piet%C3%A0
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 22
-    artista: prova22
-    titolo: prova22
-    datazione: prova22
-    supporto: prova22
-    dimensioni: prova22
-    collocazione: prova22
-    link: prova22
+    artista: Scuola viterbese (?)	
+    titolo: Crocifissione
+    datazione: ca. 1490 - 1510
+    supporto: Olio su tela
+    dimensioni: 130 x 90 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/812395_Crocifissione
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 23
-    artista: prova23
-    titolo: prova23
+    artista: Michele da Firenze
+    titolo: Compianto su Cristo morto
     datazione: prova23
-    supporto: prova23
-    dimensioni: prova23
-    collocazione: prova23
-    link: prova23
+    supporto: Terracotta policroma
+    dimensioni: n.d.
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/815161_Compianto%20su%20Cristo%20morto
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 24
-    artista: prova24
-    titolo: prova24
-    datazione: prova24
-    supporto: prova24
-    dimensioni: prova24
-    collocazione: prova24
-    link: prova24
+    artista: Antonio Passarino
+    titolo: Sant'Antonio martire
+    datazione: 1489
+    supporto: Onice
+    dimensioni: n.d.
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820759_Sant'Antonino%20Martire
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 25
-    artista: prova25
-    titolo: prova25
-    datazione: prova25
-    supporto: prova25
-    dimensioni: prova25
-    collocazione: prova25
-    link: prova25
+    artista: Angelo e Bartolomeo degli Erri	
+    titolo: Polittico dell'Ospedale della Morte (Incoronazione della Vergine e santi)
+    datazione: 1462 - 1466	
+    supporto: Tempera su tavola
+    dimensioni: 288 x 220 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819211_Polittico%20dell'Ospedale%20della%20Morte
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
