@@ -271,65 +271,130 @@ object_list:
       - id: "cat-2-c"
 
   - id: 21
-    artista: prova20
-    titolo: prova20
-    datazione: prova20
-    supporto: prova20
-    dimensioni: prova20
-    collocazione: prova20
-    link: prova20
+    artista: prova21
+    titolo: prova21
+    datazione: prova21
+    supporto: prova21
+    dimensioni: prova21
+    collocazione: prova21
+    link: prova21
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 22
-    artista: prova20
-    titolo: prova20
-    datazione: prova20
-    supporto: prova20
-    dimensioni: prova20
-    collocazione: prova20
-    link: prova20
+    artista: prova22
+    titolo: prova22
+    datazione: prova22
+    supporto: prova22
+    dimensioni: prova22
+    collocazione: prova22
+    link: prova22
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 23
-    artista: prova20
-    titolo: prova20
-    datazione: prova20
-    supporto: prova20
-    dimensioni: prova20
-    collocazione: prova20
-    link: prova20
+    artista: prova23
+    titolo: prova23
+    datazione: prova23
+    supporto: prova23
+    dimensioni: prova23
+    collocazione: prova23
+    link: prova23
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 24
-    artista: prova20
-    titolo: prova20
-    datazione: prova20
-    supporto: prova20
-    dimensioni: prova20
-    collocazione: prova20
-    link: prova20
+    artista: prova24
+    titolo: prova24
+    datazione: prova24
+    supporto: prova24
+    dimensioni: prova24
+    collocazione: prova24
+    link: prova24
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 25
-    artista: prova20
-    titolo: prova20
-    datazione: prova20
-    supporto: prova20
-    dimensioni: prova20
-    collocazione: prova20
-    link: prova20
+    artista: prova25
+    titolo: prova25
+    datazione: prova25
+    supporto: prova25
+    dimensioni: prova25
+    collocazione: prova25
+    link: prova25
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 26
+    artista: prova26
+    titolo: prova26
+    datazione: prova26
+    supporto: prova26
+    dimensioni: prova26
+    collocazione: prova26
+    link: prova26
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 27
+    artista: prova27
+    titolo: prova27
+    datazione: prova27
+    supporto: prova27
+    dimensioni: prova27
+    collocazione: prova27
+    link: prova27
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 28
+    artista: prova28
+    titolo: prova28
+    datazione: prova28
+    supporto: prova28
+    dimensioni: prova28
+    collocazione: prova28
+    link: prova28
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 29
+    artista: prova29
+    titolo: prova29
+    datazione: prova29
+    supporto: prova29
+    dimensioni: prova29
+    collocazione: prova29
+    link: prova29
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 30
+    artista: prova30
+    titolo: prova30
+    datazione: prova30
+    supporto: prova30
+    dimensioni: prova30
+    collocazione: prova30
+    link: prova30
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
