@@ -206,65 +206,65 @@ object_list:
       - id: "cat-2-c" 
 
   - id: 16
-    artista: prova16
-    titolo: prova16
-    datazione: prova16
-    supporto: prova16
-    dimensioni: prova16
-    collocazione: prova16
-    link: prova16
+    artista: Francesco Botticini
+    titolo: Adorazione del Bambino
+    datazione: ca. 1470 - 1480
+    supporto: Olio su tavola
+    dimensioni: opera senza cornice 102	x 61 cm; opera con cornice 140 x 98 cm 
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818965_Adorazione%20del%20Bambino
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 17
-    artista: prova17
-    titolo: prova17
-    datazione: prova17
-    supporto: prova17
-    dimensioni: prova17
-    collocazione: prova17
-    link: prova17
+    artista: Lorenzo di Credi			
+    titolo: Martirio di san Sebastiano
+    datazione: ca. 1480 - 1490
+    supporto: Olio su tavola
+    dimensioni: opera senza cornice 43,5 x 27 cm;	listello 58 x	42,5 cm	
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818702_Martirio%20di%20san%20Sebastiano
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 18
-    artista: prova18
-    titolo: prova18
-    datazione: prova18
-    supporto: prova18
-    dimensioni: prova18
-    collocazione: prova18
-    link: prova18
+    artista: Sandro Botticelli (scuola di)		
+    titolo: Madonna col Bambino e san Giovanni Battista	
+    datazione: ca. 1475 - 1500
+    supporto: Olio su tavola
+    dimensioni: diametro 119 cm	
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819435_Madonna%20col%20Bambino%20e%20san%20Giovanni%20Battista
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 19
-    artista: prova19
-    titolo: prova19
-    datazione: prova19
-    supporto: prova19
-    dimensioni: prova19
-    collocazione: prova19
-    link: prova19
+    artista: Sandro Botticelli (scuola di)	
+    titolo: Madonna col Bambino
+    datazione: ca. 1475 - 1500
+    supporto: Olio su tavola
+    dimensioni: 66 x 36,5 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820335_Madonna%20col%20Bambino
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c" 
 
   - id: 20
-    artista: prova20
-    titolo: prova20
-    datazione: prova20
-    supporto: prova20
-    dimensioni: prova20
-    collocazione: prova20
-    link: prova20
+    artista: Monte di Giovanni di Miniato detto del Fora	
+    titolo: Annunciazione	
+    datazione: n.d.
+    supporto: Olio su tavola
+    dimensioni: 30 x 59 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/815611_Annunciazione
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
