@@ -401,65 +401,65 @@ object_list:
       - id: "cat-2-c"
 
   - id: 31
-    artista: prova31
-    titolo: prova31
-    datazione: prova31
-    supporto: prova31
-    dimensioni: prova31
-    collocazione: prova31
-    link: prova31
+    artista: Francesco Bianchi Ferrari		
+    titolo: Crocifissione con i santi Maddalena, Domenico e Pietro martire
+    datazione: ca. 1500 - 1510
+    supporto: Olio su tavola
+    dimensioni: 220 x 160 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818319_Crocifissione%20con%20i%20santi%20Maddalena,%20Domenico%20e%20Pietro%20martire
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 32
-    artista: prova32
-    titolo: prova32
-    datazione: prova32
-    supporto: prova32
-    dimensioni: prova32
-    collocazione: prova32
-    link: prova32
+    artista: Francesco Bianchi Ferrari, Giovanni Antonio Scacceri
+    titolo: Annunciazione
+    datazione: 1506 - 1512
+    supporto: Olio su tavola
+    dimensioni: 291 x 176,5 cm	
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818295_Annunciazione
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 33
-    artista: prova33
-    titolo: prova33
-    datazione: prova33
-    supporto: prova33
-    dimensioni: prova33
-    collocazione: prova33
-    link: prova33
+    artista: Scultore emiliano
+    titolo: Busto di santa monaca
+    datazione: ca. 1480-1510
+    supporto: Terracotta policroma
+    dimensioni: n.d.
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/821121_Santa%20monaca
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 34
-    artista: prova34
-    titolo: prova34
-    datazione: prova34
-    supporto: prova34
-    dimensioni: prova34
-    collocazione: prova34
-    link: prova34
+    artista: Guido Mazzoni
+    titolo: Testa di vecchio
+    datazione: ca. 1480-1485
+    supporto: Terracotta policroma
+    dimensioni: n.d.
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/821074_Testa%20di%20vecchio
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 35
-    artista: prova35
-    titolo: prova35
-    datazione: prova35
-    supporto: prova35
-    dimensioni: prova35
-    collocazione: prova35
-    link: prova35
+    artista: Cosmè Tura
+    titolo: Sant'Antonio da Padova
+    datazione: ca. 1484 - 1488
+    supporto: Olio su tavola
+    dimensioni: Opera senza cornice 155 x 80 cm;	opera con cornice	179	 x 105 x 10 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819225_Sant'Antonio%20da%20Padova
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
