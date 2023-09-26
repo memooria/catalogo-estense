@@ -336,65 +336,65 @@ object_list:
       - id: "cat-2-c"
 
   - id: 26
-    artista: prova26
-    titolo: prova26
-    datazione: prova26
-    supporto: prova26
-    dimensioni: prova26
-    collocazione: prova26
-    link: prova26
+    artista: Angelo e Bartolomeo degli Erri (bottega di)		
+    titolo: San Giovanni Battista; Vergine dolente; San Giovanni Evangelista; Sant'Agostino
+    datazione: ca. 1470 - 1490
+    supporto: Tempera su tavola
+    dimensioni: 84 x 61 x 6 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819321_San%20Giovanni%20Battista;%20Vergine%20dolente;%20San%20Giovanni%20Evangelista;%20Sant'Agostino
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 27
-    artista: prova27
-    titolo: prova27
-    datazione: prova27
-    supporto: prova27
-    dimensioni: prova27
-    collocazione: prova27
-    link: prova27
+    artista: Scuola ferrarese o modenese	
+    titolo: Annunciazione
+    datazione: ca. 1470 - 1480
+    supporto: Affresco staccato
+    dimensioni: 357 x 213 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818625_Annunciazione
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 28
-    artista: prova28
-    titolo: prova28
-    datazione: prova28
-    supporto: prova28
-    dimensioni: prova28
-    collocazione: prova28
-    link: prova28
+    artista: Cristoforo Canozi da Lendinara
+    titolo: Madonna della Colonna (Madonna col Bambino)
+    datazione: 1479 - 1482
+    supporto: Olio su tavola
+    dimensioni: 142 x 64 cm	
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818315_Madonna%20della%20Colonna
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 29
-    artista: prova29
-    titolo: prova29
-    datazione: prova29
-    supporto: prova29
-    dimensioni: prova29
-    collocazione: prova29
-    link: prova29
+    artista: Bartolomeo Bonascia 		
+    titolo: Pietà
+    datazione: 1475 - 1495
+    supporto: Tempera su tela
+    dimensioni: 133 x 173	cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818322_Piet%C3%A0
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 30
-    artista: prova30
-    titolo: prova30
-    datazione: prova30
-    supporto: prova30
-    dimensioni: prova30
-    collocazione: prova30
-    link: prova30
+    artista: Francesco Bianchi Ferrari  		
+    titolo: Pala delle tre croci
+    datazione: ca. 1490 - 1495
+    supporto: Olio su tavola
+    dimensioni: 267 x 220	cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818977_Pala%20delle%20tre%20croci
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
@@ -529,3 +529,81 @@ object_list:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
+
+  - id: 41
+    artista: prova41
+    titolo: prova41
+    datazione: prova41
+    supporto: prova41
+    dimensioni: prova41
+    collocazione: prova41
+    link: prova41
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 42
+    artista: prova42
+    titolo: prova42
+    datazione: prova42
+    supporto: prova42
+    dimensioni: prova42
+    collocazione: prova42
+    link: prova42
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 43
+    artista: prova43
+    titolo: prova43
+    datazione: prova43
+    supporto: prova43
+    dimensioni: prova43
+    collocazione: prova43
+    link: prova43
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"
+
+  - id: 44
+    artista: prova44
+    titolo: prova44
+    datazione: prova44
+    supporto: prova44
+    dimensioni: prova44
+    collocazione: prova44
+    link: prova44
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"  
+
+  - id: 45
+    artista: prova45
+    titolo: prova45
+    datazione: prova45
+    supporto: prova45
+    dimensioni: prova45
+    collocazione: prova45
+    link: prova45
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"  
+
+  - id: 46
+    artista: prova46
+    titolo: prova46
+    datazione: prova46
+    supporto: prova46
+    dimensioni: prova46
+    collocazione: prova46
+    link: prova46
+    figure:
+      - id: "cat-2"
+      - id: "cat-2-b"
+      - id: "cat-2-c"  
