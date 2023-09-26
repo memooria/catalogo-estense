@@ -466,65 +466,65 @@ object_list:
       - id: "cat-2-c"
 
   - id: 36
-    artista: prova36
-    titolo: prova36
-    datazione: prova36
-    supporto: prova36
-    dimensioni: prova36
-    collocazione: prova36
-    link: prova36
+    artista: Ercole De' Roberti, Giovan Francesco Maineri (?) 	
+    titolo: Lucrezia, Bruto e Collatino
+    datazione: ca. 1490
+    supporto: Olio e tempera (?) su tavola
+    dimensioni: 48,7 x 35,5 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818629_Lucrezia,%20Bruto%20e%20Collatino
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 37
-    artista: prova37
-    titolo: prova37
-    datazione: prova37
-    supporto: prova37
-    dimensioni: prova37
-    collocazione: prova37
-    link: prova37
+    artista: Giovan Francesco Maineri (attr.)
+    titolo: Trittico con storie della Passione: Andata al Calvario; Crocifissione; Compianto su Cristo morto
+    datazione: ca. 1490 - 1495
+    supporto: Olio su tavola
+    dimensioni: 22,5 x 30,5 x 0,5 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/817961_Storie%20della%20Passione:%20Andata%20al%20Calvario;%20Crocifissione;%20Compianto%20su%20Cristo%20morto
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 38
-    artista: prova38
-    titolo: prova38
-    datazione: prova38
-    supporto: prova38
-    dimensioni: prova38
-    collocazione: prova38
-    link: prova38
+    artista: Giovan Francesco Maineri
+    titolo: Cristo portacroce	
+    datazione: ca. 1500 - 1505
+    supporto: Olio su tavola
+    dimensioni: 62 x 45,5	cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819286_Cristo%20portacroce
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 39
-    artista: prova39
-    titolo: prova39
-    datazione: prova39
-    supporto: prova39
-    dimensioni: prova39
-    collocazione: prova39
-    link: prova39
+    artista: Giovan Francesco Maineri
+    titolo: Ecce Homo
+    datazione: ca. 1500-1510
+    supporto: Olio su tavola
+    dimensioni: n.d.
+    collocazione: Galleria Estense, Modena
+    link: N.D.
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 40
-    artista: prova40
-    titolo: prova40
-    datazione: prova40
-    supporto: prova40
-    dimensioni: prova40
-    collocazione: prova40
-    link: prova40
+    artista: Lazzaro Bastiani
+    titolo: Redentore benedicente
+    datazione: ca. 1480 - 1500
+    supporto: Olio su tavola
+    dimensioni: 26 x 18 x 2 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818221_Redentore%20benedicente
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
