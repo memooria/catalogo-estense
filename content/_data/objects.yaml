@@ -511,7 +511,7 @@ object_list:
     supporto: Olio su tavola
     dimensioni: n.d.
     collocazione: Galleria Estense, Modena
-    link: N.D.
+    link:
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
