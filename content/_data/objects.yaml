@@ -429,7 +429,7 @@ object_list:
   - id: 33
     artista: Scultore emiliano
     titolo: Busto di santa monaca
-    datazione: ca. 1480-1510
+    datazione: ca. 1480 - 1510
     supporto: Terracotta policroma
     dimensioni: n.d.
     collocazione: Galleria Estense, Modena
@@ -466,7 +466,7 @@ object_list:
       - id: "cat-2-c"
 
   - id: 36
-    artista: Ercole De' Roberti, Giovan Francesco Maineri (?) 	
+    artista: Ercole De' Roberti, Giovan Francesco Maineri (?)
     titolo: Lucrezia, Bruto e Collatino
     datazione: ca. 1490
     supporto: Olio e tempera (?) su tavola
@@ -479,7 +479,7 @@ object_list:
       - id: "cat-2-c"
 
   - id: 37
-    artista: Giovan Francesco Maineri (attr.)
+    artista: Giovan Francesco Maineri (attr)
     titolo: Trittico con storie della Passione: Andata al Calvario; Crocifissione; Compianto su Cristo morto
     datazione: ca. 1490 - 1495
     supporto: Olio su tavola
