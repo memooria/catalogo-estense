@@ -530,78 +530,78 @@ object_list:
       - id: "cat-2-c"
 
   - id: 41
-    artista: prova41
-    titolo: prova41
-    datazione: prova41
-    supporto: prova41
-    dimensioni: prova41
-    collocazione: prova41
-    link: prova41
+    artista: Bernardo Parentino o Parenzano
+    titolo: Cristo portacroce tra i santi Girolamo e Agostino
+    datazione: 1492 - 1496
+    supporto: Tempera su tela
+    dimensioni: 112 x 152 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820104_Cristo%20portacroce%20tra%20i%20santi%20Girolamo%20e%20Agostino
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 42
-    artista: prova42
-    titolo: prova42
-    datazione: prova42
-    supporto: prova42
-    dimensioni: prova42
-    collocazione: prova42
-    link: prova42
+    artista: Bartolomeo Montagna	
+    titolo: Madonna col Bambino
+    datazione: 1503
+    supporto: Olio su tavola
+    dimensioni: 66 x 51,5 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819371_Madonna%20col%20Bambino
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 43
-    artista: prova43
-    titolo: prova43
-    datazione: prova43
-    supporto: prova43
-    dimensioni: prova43
-    collocazione: prova43
-    link: prova43
+    artista: Maestro Esiguo	
+    titolo: Ritratto di giovane
+    datazione: ca. 1490 - 1510
+    supporto: Olio su tavola
+    dimensioni: 38 x 32,5 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818314_Ritratto%20di%20giovane
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"
 
   - id: 44
-    artista: prova44
-    titolo: prova44
-    datazione: prova44
-    supporto: prova44
-    dimensioni: prova44
-    collocazione: prova44
-    link: prova44
+    artista: Filippo Mazzola (attribuito a)
+    titolo: Ritratto d'uomo
+    datazione: ca. 1460 - 1500
+    supporto: Olio su tavola
+    dimensioni: 17,5 x 12 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819868_Ritratto%20d'uomo
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"  
 
   - id: 45
-    artista: prova45
-    titolo: prova45
-    datazione: prova45
-    supporto: prova45
-    dimensioni: prova45
-    collocazione: prova45
-    link: prova45
+    artista: Scuola lombarda	
+    titolo: Ritratto d'uomo di profilo
+    datazione: 1490 - 1500
+    supporto: Olio su tavola
+    dimensioni: 25,5 x 17,5 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818682_Ritratto%20d'uomo%20di%20profilo
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
       - id: "cat-2-c"  
 
   - id: 46
-    artista: prova46
-    titolo: prova46
-    datazione: prova46
-    supporto: prova46
-    dimensioni: prova46
-    collocazione: prova46
-    link: prova46
+    artista: Mocetto Girolamo			
+    titolo: Ritratto di giovinetto
+    datazione: 1490 - 1500
+    supporto: Olio su tavola
+    dimensioni: 20 x 16 cm
+    collocazione: Galleria Estense, Modena
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819826_Ritratto%20di%20giovinetto
     figure:
       - id: "cat-2"
       - id: "cat-2-b"
