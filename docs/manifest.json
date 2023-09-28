@@ -199,10 +199,6 @@
     "file": "_assets/logo-getty.png",
     "src": "_assets/images/logo-getty.png"
   },
-  "_assets/images/spiral-overlay.png": {
-    "file": "_assets/spiral-overlay.png",
-    "src": "_assets/images/spiral-overlay.png"
-  },
   "_index-1be1e88e.js": {
     "assets": [
       "_assets/ibmplexsanscondensed-regular.eot",
