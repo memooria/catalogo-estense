@@ -33,9 +33,7 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/821198_Madonna%20dei%20Cattania 
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
-
+      
   - id: 3
     artista: Pittore veneto
     titolo: Crocifissione e Deposizione
@@ -46,9 +44,7 @@ object_list:
     link: https://www.getty.edu/art/collection/object/104A2K
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
-
+      
   - id: 4
     artista: Francesco di Neri da Volterra 
     titolo: Madonna col Bambino in trono fra angeli
@@ -58,10 +54,8 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/817783_Madonna%20col%20Bambino%20in%20trono%20fra%20angeli
     figure:
-      - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c" 
-
+      - id: "cat-4"
+      
   - id: 5
     artista: Barisini Tomaso detto Tommaso da Modena 
     titolo: Madonna col Bambino; Discesa di Cristo al Limbo; San Romualdo (?); San Girolamo; San Giovannino; Santa Caterina d'Alessandria
@@ -71,10 +65,8 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818312_Madonna%20col%20Bambino;%20Discesa%20di%20Cristo%20al%20Limbo;%20San%20Romualdo%20(?);%20San%20Girolamo;%20%20San%20Giovannino;%20Santa%20Caterina%20d'Alessandria
     figure:
-      - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c" 
-
+      - id: "cat-5"
+      
   - id: 6
     artista: Agocchiari Barnaba detto Barnaba da Modena 
     titolo: Madonna col Bambino e santi; Crocifissione
