@@ -131,7 +131,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819014_Adorazione%20dei%20Magi
     figure:
-      - id: "cat-2"
+      - id: "cat-11"
       
   - id: 12
     artista: Arcangelo di Cola da Camerino
@@ -142,7 +142,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819315_Esequie%20di%20san%20Zenobi;%20Martirio%20di%20sant'Andrea;%20Deposizione%20di%20Cristo;%20Martirio%20di%20san%20Giovanni%20Evangelista;%20Martirio%20di%20santa%20Caterina%20d'Alessandria
     figure:
-      - id: "cat-2"
+      - id: "cat-12"
       
   - id: 13
     artista: Secondo Maestro di Carpi
@@ -153,7 +153,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818983_Leggenda%20di%20san%20Giovanni%20Boccadoro
     figure:
-      - id: "cat-2"
+      - id: "cat-13"
       
   - id: 14
     artista: Apollonio di Giovanni
@@ -164,7 +164,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820179_La%20novella%20di%20Griselda
     figure:
-      - id: "cat-2"
+      - id: "cat-14"
       
   - id: 15
     artista: Giovanni Antonio Bellinzoni da Pesaro
@@ -175,7 +175,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819721_San%20Giovanni%20Battista
     figure:
-      - id: "cat-2"
+      - id: "cat-15"
       
   - id: 16
     artista: Francesco Botticini
