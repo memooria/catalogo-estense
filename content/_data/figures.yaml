@@ -64,13 +64,6 @@ figure_list:
     caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
     credit: "© J. Paul Getty Trust"
 
-  - id: "cat-1"
-    src: figures/lange-mother-a.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
-
   - id: "mother-variants"
     label: "Figure 1.1"
     caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
@@ -98,22 +91,37 @@ figure_list:
           - src: "figures/lange-layers/thumb.png"
             selected: true
 
-  - id: "cat-2"
-    src: figures/evans-fields-family-a.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
+  - id: "cat-1"
+    src: figures/1.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/c4668a96-0669-4290-a2e0-b46e0fe6e2a8/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/c4668a96-0669-4290-a2e0-b46e0fe6e2a8/canvas/1242a172-db1a-422b-9b08-979bacec1ab5
     zoom: true
 
-  - id: "cat-2-b"
-    src: figures/evans-fields-family-b.jpg
-    caption: "Walker Evans, *Sharecropper's Family, Hale County, Alabama / Bud Fields and His Family, Hale County, Alabama / Bud Woods and His Family*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "cat-2"
+    src: figures/2.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/69a7636c-3a3e-4236-b519-30554441d8d5/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/69a7636c-3a3e-4236-b519-30554441d8d5/canvas/a568e7a3-8dd6-4975-8a96-2f0743bdefc9
+    zoom: true
 
-  - id: "cat-2-c"
-    src: figures/evans-bud-fields.jpg
-    caption: "Walker Evans, * [William Edward (Bud) Fields, A Cotton Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant Farmer]*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "cat-4"
+    src: figures/4.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/6ed70fa4-f186-4bfa-bd4a-1681e27bba9a/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/6ed70fa4-f186-4bfa-bd4a-1681e27bba9a/canvas/11c65085-05cf-42e5-a916-61ee955221cf
+    zoom: true
+
+  - id: "cat-5"
+    src: figures/5.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/a8ea0345-7a49-4055-8299-2bd6385a6ce6/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/a8ea0345-7a49-4055-8299-2bd6385a6ce6/canvas/885e2cca-81a2-4af9-b75f-87cc86366577
+    zoom: true
 
   - id: "cat-36"
     src: figures/36.jpg
