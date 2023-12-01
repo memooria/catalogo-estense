@@ -77,8 +77,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818317_Madonna%20col%20Bambino%20e%20santi;%20Crocifissione;%20Annunciazione
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c" 
 
   - id: 7
     artista: Serafini Paolo detto Paolo da Modena 
@@ -90,8 +88,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/817824_Madonna%20dell'Umilt%C3%A0
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c" 
   
   - id: 8
     artista: Simone di Filippo Benvenuti detto Simone dei Crocifissi 
@@ -103,8 +99,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818329_Madonna%20col%20Bambino%20in%20trono%20fra%20angeli
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c" 
 
   - id: 9
     artista: Maestro di Torre di Palme (attribuito a) 
@@ -116,9 +110,7 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819314_Madonna%20col%20Bambino;%20Cristo%20nel%20sepolcro;%20Annunciazione;%20Santi
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c" 
-
+      
   - id: 10
     artista: Paolo di Giovanni Fei (attribuito a)	
     titolo: Madonna col Bambino
@@ -129,9 +121,7 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819340_Madonna%20col%20Bambino
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c" 
-
+      
   - id: 11
     artista: Giovanni di Paolo
     titolo: Adorazione dei Magi
@@ -142,9 +132,7 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819014_Adorazione%20dei%20Magi
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c" 
-
+      
   - id: 12
     artista: Arcangelo di Cola da Camerino
     titolo: Esequie di san Zenobi; Martirio di sant'Andrea; Deposizione di Cristo; Martirio di san Giovanni Evangelista; Martirio di santa Caterina d'Alessandria
@@ -155,9 +143,7 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819315_Esequie%20di%20san%20Zenobi;%20Martirio%20di%20sant'Andrea;%20Deposizione%20di%20Cristo;%20Martirio%20di%20san%20Giovanni%20Evangelista;%20Martirio%20di%20santa%20Caterina%20d'Alessandria
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c" 
-  
+      
   - id: 13
     artista: Secondo Maestro di Carpi
     titolo: Leggenda di san Giovanni Boccadoro
@@ -168,9 +154,7 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818983_Leggenda%20di%20san%20Giovanni%20Boccadoro
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
-
+      
   - id: 14
     artista: Apollonio di Giovanni
     titolo: La novella di Griselda
@@ -181,9 +165,7 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820179_La%20novella%20di%20Griselda
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c" 
-
+      
   - id: 15
     artista: Giovanni Antonio Bellinzoni da Pesaro
     titolo: San Giovanni Battista
@@ -194,9 +176,7 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819721_San%20Giovanni%20Battista
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c" 
-
+      
   - id: 16
     artista: Francesco Botticini
     titolo: Adorazione del Bambino
@@ -207,9 +187,7 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818965_Adorazione%20del%20Bambino
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c" 
-
+      
   - id: 17
     artista: Lorenzo di Credi			
     titolo: Martirio di san Sebastiano
@@ -220,9 +198,7 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818702_Martirio%20di%20san%20Sebastiano
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c" 
-
+      
   - id: 18
     artista: Sandro Botticelli (scuola di)		
     titolo: Madonna col Bambino e san Giovanni Battista	
@@ -233,9 +209,7 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819435_Madonna%20col%20Bambino%20e%20san%20Giovanni%20Battista
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c" 
-
+      
   - id: 19
     artista: Sandro Botticelli (scuola di)	
     titolo: Madonna col Bambino
@@ -246,9 +220,7 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820335_Madonna%20col%20Bambino
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c" 
-
+      
   - id: 20
     artista: Monte di Giovanni di Miniato detto del Fora	
     titolo: Annunciazione	
@@ -259,8 +231,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/815611_Annunciazione
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 21
     artista: Scuola dell'Italia centrale		
@@ -272,8 +242,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819714_Piet%C3%A0
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 22
     artista: Scuola viterbese (?)	
@@ -285,8 +253,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/812395_Crocifissione
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 23
     artista: Michele da Firenze
@@ -298,8 +264,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/815161_Compianto%20su%20Cristo%20morto
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 24
     artista: Antonio Passarino
@@ -311,8 +275,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820759_Sant'Antonino%20Martire
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 25
     artista: Angelo e Bartolomeo degli Erri	
@@ -324,8 +286,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819211_Polittico%20dell'Ospedale%20della%20Morte
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 26
     artista: Angelo e Bartolomeo degli Erri (bottega di)		
@@ -337,8 +297,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819321_San%20Giovanni%20Battista;%20Vergine%20dolente;%20San%20Giovanni%20Evangelista;%20Sant'Agostino
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 27
     artista: Scuola ferrarese o modenese	
@@ -350,8 +308,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818625_Annunciazione
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 28
     artista: Cristoforo Canozi da Lendinara
@@ -363,8 +319,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818315_Madonna%20della%20Colonna
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 29
     artista: Bartolomeo Bonascia 		
@@ -376,8 +330,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818322_Piet%C3%A0
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 30
     artista: Francesco Bianchi Ferrari  		
@@ -389,8 +341,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818977_Pala%20delle%20tre%20croci
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 31
     artista: Francesco Bianchi Ferrari		
@@ -402,8 +352,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818319_Crocifissione%20con%20i%20santi%20Maddalena,%20Domenico%20e%20Pietro%20martire
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 32
     artista: Francesco Bianchi Ferrari, Giovanni Antonio Scacceri
@@ -415,8 +363,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818295_Annunciazione
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 33
     artista: Scultore emiliano
@@ -428,8 +374,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/821121_Santa%20monaca
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 34
     artista: Guido Mazzoni
@@ -441,8 +385,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/821074_Testa%20di%20vecchio
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 35
     artista: Cosmè Tura
@@ -454,8 +396,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819225_Sant'Antonio%20da%20Padova
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 36
     artista: Ercole De' Roberti, Giovan Francesco Maineri (?)
@@ -478,8 +418,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/817961_Storie%20della%20Passione:%20Andata%20al%20Calvario;%20Crocifissione;%20Compianto%20su%20Cristo%20morto
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 38
     artista: Giovan Francesco Maineri
@@ -491,8 +429,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819286_Cristo%20portacroce
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 39
     artista: Giovan Francesco Maineri
@@ -503,8 +439,6 @@ object_list:
     collocazione: Galleria Estense, Modena
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 40
     artista: Lazzaro Bastiani
@@ -516,8 +450,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818221_Redentore%20benedicente
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 41
     artista: Bernardo Parentino o Parenzano
@@ -529,8 +461,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820104_Cristo%20portacroce%20tra%20i%20santi%20Girolamo%20e%20Agostino
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 42
     artista: Bartolomeo Montagna	
@@ -542,8 +472,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819371_Madonna%20col%20Bambino
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 43
     artista: Maestro Esiguo	
@@ -555,8 +483,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818314_Ritratto%20di%20giovane
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
 
   - id: 44
     artista: Filippo Mazzola (attribuito a)
@@ -568,8 +494,6 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819868_Ritratto%20d'uomo
     figure:
       - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"  
 
   - id: 45
     artista: Scuola lombarda	
@@ -580,9 +504,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818682_Ritratto%20d'uomo%20di%20profilo
     figure:
-      - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"  
+      - id: "cat-2"  
 
   - id: 46
     artista: Girolamo Mocetto			
@@ -593,6 +515,4 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819826_Ritratto%20di%20giovinetto
     figure:
-      - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"  
+      - id: "cat-2" 
