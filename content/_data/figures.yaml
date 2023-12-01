@@ -114,3 +114,11 @@ figure_list:
     src: figures/evans-bud-fields.jpg
     caption: "Walker Evans, * [William Edward (Bud) Fields, A Cotton Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant Farmer]*, 1936."
     credit: The J. Paul Getty Museum, Los Angeles
+
+  - id: "cat-36"
+    src: figures/36.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/52693a93-67d7-4b52-b665-840502868945/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/52693a93-67d7-4b52-b665-840502868945/canvas/c2a7e67d-3ee1-41c1-a935-3c16ce4593ff
+    zoom: true
