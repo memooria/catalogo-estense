@@ -155,6 +155,10 @@
     "file": "_assets/1.jpg",
     "src": "_assets/images/figures/1.jpg"
   },
+  "_assets/images/figures/10.jpg": {
+    "file": "_assets/10.jpg",
+    "src": "_assets/images/figures/10.jpg"
+  },
   "_assets/images/figures/2.jpg": {
     "file": "_assets/2.jpg",
     "src": "_assets/images/figures/2.jpg"
@@ -170,6 +174,22 @@
   "_assets/images/figures/5.jpg": {
     "file": "_assets/5.jpg",
     "src": "_assets/images/figures/5.jpg"
+  },
+  "_assets/images/figures/6.jpg": {
+    "file": "_assets/6.jpg",
+    "src": "_assets/images/figures/6.jpg"
+  },
+  "_assets/images/figures/7.jpg": {
+    "file": "_assets/7.jpg",
+    "src": "_assets/images/figures/7.jpg"
+  },
+  "_assets/images/figures/8.jpg": {
+    "file": "_assets/8.jpg",
+    "src": "_assets/images/figures/8.jpg"
+  },
+  "_assets/images/figures/9.jpg": {
+    "file": "_assets/9.jpg",
+    "src": "_assets/images/figures/9.jpg"
   },
   "_assets/images/logo-getty.png": {
     "file": "_assets/logo-getty.png",
