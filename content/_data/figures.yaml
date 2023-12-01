@@ -32,6 +32,46 @@ figure_list:
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/a8ea0345-7a49-4055-8299-2bd6385a6ce6/canvas/885e2cca-81a2-4af9-b75f-87cc86366577
     zoom: true
 
+  - id: "cat-6"
+    src: figures/6.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/484e0a0c-81d8-4911-a4c5-13e728c669ec/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/484e0a0c-81d8-4911-a4c5-13e728c669ec/canvas/00a8f66e-2686-4d99-9411-f9cff9c85432
+    zoom: true
+
+  - id: "cat-7"
+    src: figures/7.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/7f72f48c-3621-4af7-a093-ff7108330232/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/7f72f48c-3621-4af7-a093-ff7108330232/canvas/31255d89-6d71-40dc-a98d-4f6ba893ee2e
+    zoom: true
+
+  - id: "cat-8"
+    src: figures/8.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/bde55df3-9766-4a3d-90b9-0ca2baf36716/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/bde55df3-9766-4a3d-90b9-0ca2baf36716/canvas/79521596-5667-4653-aecf-9d2b4981a9b6
+    zoom: true
+
+  - id: "cat-9"
+    src: figures/9.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/cf5de7e9-c864-4c4e-8ee1-b2c40fe7c0b6/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/cf5de7e9-c864-4c4e-8ee1-b2c40fe7c0b6/canvas/11d12114-2eaa-49f7-85c9-ee7c6173bc66
+    zoom: true
+
+  - id: "cat-10"  
+    src: figures/10.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/e0a90690-3ecc-4d4e-b4a7-3a2010bd5d9d/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/e0a90690-3ecc-4d4e-b4a7-3a2010bd5d9d/canvas/15180f34-87d4-429e-b438-7a9ed17a2301
+    zoom: true
+
   - id: "cat-36"
     src: figures/36.jpg
     caption: "Opera magna in IIIF."
