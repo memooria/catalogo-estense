@@ -76,7 +76,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818317_Madonna%20col%20Bambino%20e%20santi;%20Crocifissione;%20Annunciazione
     figure:
-      - id: "cat-2"
+      - id: "cat-6"
 
   - id: 7
     artista: Serafini Paolo detto Paolo da Modena 
@@ -87,7 +87,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/817824_Madonna%20dell'Umilt%C3%A0
     figure:
-      - id: "cat-2"
+      - id: "cat-7"
   
   - id: 8
     artista: Simone di Filippo Benvenuti detto Simone dei Crocifissi 
@@ -98,7 +98,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818329_Madonna%20col%20Bambino%20in%20trono%20fra%20angeli
     figure:
-      - id: "cat-2"
+      - id: "cat-8"
 
   - id: 9
     artista: Maestro di Torre di Palme (attribuito a) 
@@ -109,7 +109,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819314_Madonna%20col%20Bambino;%20Cristo%20nel%20sepolcro;%20Annunciazione;%20Santi
     figure:
-      - id: "cat-2"
+      - id: "cat-9"
       
   - id: 10
     artista: Paolo di Giovanni Fei (attribuito a)	
@@ -120,7 +120,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819340_Madonna%20col%20Bambino
     figure:
-      - id: "cat-2"
+      - id: "cat-10"
       
   - id: 11
     artista: Giovanni di Paolo
