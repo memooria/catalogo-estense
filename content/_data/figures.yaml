@@ -112,10 +112,146 @@ figure_list:
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/736577fe-3daa-49b3-9c6e-2e84451204df/canvas/83bf90f8-c81d-4f25-9dfb-0412ce37c82a
     zoom: true
 
+  - id: "cat-16"
+    src: figures/16.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/3cffc2fd-3d9e-4837-a41c-6b06cce8eb3a/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/3cffc2fd-3d9e-4837-a41c-6b06cce8eb3a/canvas/273d4349-ddfa-4b48-94fc-296d4274525d
+    zoom: true
+
+  - id: "cat-17"
+    src: figures/17.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/25c29820-a3cc-49e7-845b-2d3d0ed6dddc/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/25c29820-a3cc-49e7-845b-2d3d0ed6dddc/canvas/29cfefe7-59c9-4031-b3c2-5eda0a19585c
+    zoom: true
+
+  - id: "cat-23"
+    src: figures/23.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/a33e4226-4d84-45f0-9698-e2127f101b0c/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/a33e4226-4d84-45f0-9698-e2127f101b0c/canvas/b5b282b1-b310-4c35-a332-c61bc2cb9d7b
+    zoom: true
+
+  - id: "cat-25"
+    src: figures/25.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/4eed4d40-cd31-4fe3-b715-2c950092745c/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/4eed4d40-cd31-4fe3-b715-2c950092745c/canvas/38fdafc9-a5c2-4e2f-9a2a-315204c19de2
+    zoom: true
+
+  - id: "cat-26"
+    src: figures/26.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/d7bb9e3b-a473-41c5-b7ad-607314874fb2/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/d7bb9e3b-a473-41c5-b7ad-607314874fb2/canvas/2ec9e645-ac13-4126-b7bf-d580b6014d81
+    zoom: true
+
+  - id: "cat-28"
+    src: figures/28.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/04b2490d-fe1c-41a7-a033-fcfda1ac514b/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/04b2490d-fe1c-41a7-a033-fcfda1ac514b/canvas/dfa8a7a7-1129-436a-8cd3-c6b12dc987b5
+    zoom: true
+
+  - id: "cat-29"
+    src: figures/29.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/378ef6ae-afdf-4330-8a6f-fbe0673115f8/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/378ef6ae-afdf-4330-8a6f-fbe0673115f8/canvas/4b20677f-8561-4ba2-a3ba-b6e50f30c537
+    zoom: true
+
+  - id: "cat-30"
+    src: figures/30.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/7feb6247-f56e-407f-be6d-d36f70b3469d/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/7feb6247-f56e-407f-be6d-d36f70b3469d/canvas/b5b42c1e-62de-4b15-876d-9539558ff07c
+    zoom: true
+
+  - id: "cat-31"
+    src: figures/31.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/74d0a11e-3792-462f-bf3f-28134dac0cda/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/74d0a11e-3792-462f-bf3f-28134dac0cda/canvas/a9503793-e140-4aa7-80c7-503cd04b3b1b
+    zoom: true
+
+  - id: "cat-32"
+    src: figures/32.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/c037a3ea-809b-4caa-9803-60ef9b82b3cf/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/c037a3ea-809b-4caa-9803-60ef9b82b3cf/canvas/0cc2bef2-5a49-43be-bd8b-d2f65ccf5c07
+    zoom: true
+
+  - id: "cat-33"
+    src: figures/33.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/c2ca469a-33d7-403e-aa67-423fc9c77586/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/c2ca469a-33d7-403e-aa67-423fc9c77586/canvas/ec52209e-0c6a-427e-ac25-f042150e16f4
+    zoom: true
+
+  - id: "cat-34"
+    src: figures/34.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/93e4f217-1901-439a-9ca0-efb53dc23c97/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/93e4f217-1901-439a-9ca0-efb53dc23c97/canvas/37681abc-4e73-4ad8-be6a-dec648efa9da
+    zoom: true
+
+  - id: "cat-35"
+    src: figures/35.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/d5eb1acf-5b9b-4534-9ce3-e4de4f4b0b8c/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/d5eb1acf-5b9b-4534-9ce3-e4de4f4b0b8c/canvas/e0744f20-8b82-42b9-b1b1-8c34570ce193
+    zoom: true
+
   - id: "cat-36"
     src: figures/36.jpg
     caption: "Opera magna in IIIF."
     credit: Mario Rossi
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/52693a93-67d7-4b52-b665-840502868945/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/52693a93-67d7-4b52-b665-840502868945/canvas/c2a7e67d-3ee1-41c1-a935-3c16ce4593ff
+    zoom: true
+
+  - id: "cat-38"
+    src: figures/38.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/fe1ce26e-5bce-4c9d-bd8f-2ec8d082b9c6/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/fe1ce26e-5bce-4c9d-bd8f-2ec8d082b9c6/canvas/59b5e915-9657-4deb-ba5e-bde89ab06269
+    zoom: true
+
+  - id: "cat-40"
+    src: figures/40.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/19f43b59-d1a4-43f8-bf26-4d446b111a98/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/19f43b59-d1a4-43f8-bf26-4d446b111a98/canvas/81a4bced-3df3-4af2-9491-4124e4049d7a
+    zoom: true
+
+  - id: "cat-41"
+    src: figures/41.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/92b8650e-dfe7-4eb0-aafb-1cee21a107c7/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/92b8650e-dfe7-4eb0-aafb-1cee21a107c7/canvas/c327714b-157d-4557-bd3a-bd620d451e5d
+    zoom: true
+
+  - id: "cat-42"
+    src: figures/42.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/cc151dec-8b99-4cba-a96e-c864bf193a5d/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/cc151dec-8b99-4cba-a96e-c864bf193a5d/canvas/1cc8ce25-c210-4a7f-8175-ae152a98ad01
     zoom: true
