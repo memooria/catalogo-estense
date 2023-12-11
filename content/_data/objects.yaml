@@ -186,7 +186,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818965_Adorazione%20del%20Bambino
     figure:
-      - id: "cat-2"
+      - id: "cat-16"
       
   - id: 17
     artista: Lorenzo di Credi			
@@ -197,7 +197,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818702_Martirio%20di%20san%20Sebastiano
     figure:
-      - id: "cat-2"
+      - id: "cat-17"
       
   - id: 18
     artista: Sandro Botticelli (scuola di)		
@@ -263,7 +263,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/815161_Compianto%20su%20Cristo%20morto
     figure:
-      - id: "cat-2"
+      - id: "cat-23"
 
   - id: 24
     artista: Antonio Passarino
@@ -285,7 +285,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819211_Polittico%20dell'Ospedale%20della%20Morte
     figure:
-      - id: "cat-2"
+      - id: "cat-25"
 
   - id: 26
     artista: Angelo e Bartolomeo degli Erri (bottega di)		
@@ -296,7 +296,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819321_San%20Giovanni%20Battista;%20Vergine%20dolente;%20San%20Giovanni%20Evangelista;%20Sant'Agostino
     figure:
-      - id: "cat-2"
+      - id: "cat-26"
 
   - id: 27
     artista: Scuola ferrarese o modenese	
@@ -318,7 +318,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818315_Madonna%20della%20Colonna
     figure:
-      - id: "cat-2"
+      - id: "cat-28"
 
   - id: 29
     artista: Bartolomeo Bonascia 		
@@ -329,7 +329,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818322_Piet%C3%A0
     figure:
-      - id: "cat-2"
+      - id: "cat-29"
 
   - id: 30
     artista: Francesco Bianchi Ferrari  		
@@ -340,7 +340,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818977_Pala%20delle%20tre%20croci
     figure:
-      - id: "cat-2"
+      - id: "cat-30"
 
   - id: 31
     artista: Francesco Bianchi Ferrari		
@@ -351,7 +351,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818319_Crocifissione%20con%20i%20santi%20Maddalena,%20Domenico%20e%20Pietro%20martire
     figure:
-      - id: "cat-2"
+      - id: "cat-31"
 
   - id: 32
     artista: Francesco Bianchi Ferrari, Giovanni Antonio Scacceri
@@ -362,7 +362,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818295_Annunciazione
     figure:
-      - id: "cat-2"
+      - id: "cat-32"
 
   - id: 33
     artista: Scultore emiliano
@@ -373,7 +373,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/821121_Santa%20monaca
     figure:
-      - id: "cat-2"
+      - id: "cat-33"
 
   - id: 34
     artista: Guido Mazzoni
@@ -384,7 +384,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/821074_Testa%20di%20vecchio
     figure:
-      - id: "cat-2"
+      - id: "cat-34"
 
   - id: 35
     artista: Cosmè Tura
@@ -395,7 +395,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819225_Sant'Antonio%20da%20Padova
     figure:
-      - id: "cat-2"
+      - id: "cat-35"
 
   - id: 36
     artista: Ercole De' Roberti, Giovan Francesco Maineri (?)
@@ -428,7 +428,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819286_Cristo%20portacroce
     figure:
-      - id: "cat-2"
+      - id: "cat-38"
 
   - id: 39
     artista: Giovan Francesco Maineri
@@ -449,7 +449,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818221_Redentore%20benedicente
     figure:
-      - id: "cat-2"
+      - id: "cat-40"
 
   - id: 41
     artista: Bernardo Parentino o Parenzano
@@ -460,7 +460,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820104_Cristo%20portacroce%20tra%20i%20santi%20Girolamo%20e%20Agostino
     figure:
-      - id: "cat-2"
+      - id: "cat-41"
 
   - id: 42
     artista: Bartolomeo Montagna	
@@ -471,7 +471,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819371_Madonna%20col%20Bambino
     figure:
-      - id: "cat-2"
+      - id: "cat-42"
 
   - id: 43
     artista: Maestro Esiguo	
