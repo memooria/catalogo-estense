@@ -151,53 +151,129 @@
     "file": "_assets/judith-keller.jpg",
     "src": "_assets/images/contributors/judith-keller.jpg"
   },
-  "_assets/images/figures/evans-bud-fields.jpg": {
-    "file": "_assets/evans-bud-fields.jpg",
-    "src": "_assets/images/figures/evans-bud-fields.jpg"
+  "_assets/images/figures/1.jpg": {
+    "file": "_assets/1.jpg",
+    "src": "_assets/images/figures/1.jpg"
   },
-  "_assets/images/figures/evans-burroughs.jpg": {
-    "file": "_assets/evans-burroughs.jpg",
-    "src": "_assets/images/figures/evans-burroughs.jpg"
+  "_assets/images/figures/10.jpg": {
+    "file": "_assets/10.jpg",
+    "src": "_assets/images/figures/10.jpg"
   },
-  "_assets/images/figures/evans-fields-family-a.jpg": {
-    "file": "_assets/evans-fields-family-a.jpg",
-    "src": "_assets/images/figures/evans-fields-family-a.jpg"
+  "_assets/images/figures/11.jpg": {
+    "file": "_assets/11.jpg",
+    "src": "_assets/images/figures/11.jpg"
   },
-  "_assets/images/figures/evans-fields-family-b.jpg": {
-    "file": "_assets/evans-fields-family-b.jpg",
-    "src": "_assets/images/figures/evans-fields-family-b.jpg"
+  "_assets/images/figures/12.jpg": {
+    "file": "_assets/12.jpg",
+    "src": "_assets/images/figures/12.jpg"
   },
-  "_assets/images/figures/evans-graveyard.jpg": {
-    "file": "_assets/evans-graveyard.jpg",
-    "src": "_assets/images/figures/evans-graveyard.jpg"
+  "_assets/images/figures/13.jpg": {
+    "file": "_assets/13.jpg",
+    "src": "_assets/images/figures/13.jpg"
   },
-  "_assets/images/figures/evans-hymns.jpg": {
-    "file": "_assets/evans-hymns.jpg",
-    "src": "_assets/images/figures/evans-hymns.jpg"
+  "_assets/images/figures/14.jpg": {
+    "file": "_assets/14.jpg",
+    "src": "_assets/images/figures/14.jpg"
   },
-  "_assets/images/figures/evans-legionnaire.jpg": {
-    "file": "_assets/evans-legionnaire.jpg",
-    "src": "_assets/images/figures/evans-legionnaire.jpg"
+  "_assets/images/figures/15.jpg": {
+    "file": "_assets/15.jpg",
+    "src": "_assets/images/figures/15.jpg"
   },
-  "_assets/images/figures/evans-sons.jpg": {
-    "file": "_assets/evans-sons.jpg",
-    "src": "_assets/images/figures/evans-sons.jpg"
+  "_assets/images/figures/16.jpg": {
+    "file": "_assets/16.jpg",
+    "src": "_assets/images/figures/16.jpg"
   },
-  "_assets/images/figures/evans.jpg": {
-    "file": "_assets/evans.jpg",
-    "src": "_assets/images/figures/evans.jpg"
+  "_assets/images/figures/17.jpg": {
+    "file": "_assets/17.jpg",
+    "src": "_assets/images/figures/17.jpg"
   },
-  "_assets/images/figures/lange-house.jpg": {
-    "file": "_assets/lange-house.jpg",
-    "src": "_assets/images/figures/lange-house.jpg"
+  "_assets/images/figures/2.jpg": {
+    "file": "_assets/2.jpg",
+    "src": "_assets/images/figures/2.jpg"
   },
-  "_assets/images/figures/lange-mother-a.jpg": {
-    "file": "_assets/lange-mother-a.jpg",
-    "src": "_assets/images/figures/lange-mother-a.jpg"
+  "_assets/images/figures/23.jpg": {
+    "file": "_assets/23.jpg",
+    "src": "_assets/images/figures/23.jpg"
   },
-  "_assets/images/figures/lange.jpg": {
-    "file": "_assets/lange.jpg",
-    "src": "_assets/images/figures/lange.jpg"
+  "_assets/images/figures/25.jpg": {
+    "file": "_assets/25.jpg",
+    "src": "_assets/images/figures/25.jpg"
+  },
+  "_assets/images/figures/26.jpg": {
+    "file": "_assets/26.jpg",
+    "src": "_assets/images/figures/26.jpg"
+  },
+  "_assets/images/figures/28.jpg": {
+    "file": "_assets/28.jpg",
+    "src": "_assets/images/figures/28.jpg"
+  },
+  "_assets/images/figures/29.jpg": {
+    "file": "_assets/29.jpg",
+    "src": "_assets/images/figures/29.jpg"
+  },
+  "_assets/images/figures/31.jpg": {
+    "file": "_assets/31.jpg",
+    "src": "_assets/images/figures/31.jpg"
+  },
+  "_assets/images/figures/32.jpg": {
+    "file": "_assets/32.jpg",
+    "src": "_assets/images/figures/32.jpg"
+  },
+  "_assets/images/figures/33.jpg": {
+    "file": "_assets/33.jpg",
+    "src": "_assets/images/figures/33.jpg"
+  },
+  "_assets/images/figures/34.jpg": {
+    "file": "_assets/34.jpg",
+    "src": "_assets/images/figures/34.jpg"
+  },
+  "_assets/images/figures/35.jpg": {
+    "file": "_assets/35.jpg",
+    "src": "_assets/images/figures/35.jpg"
+  },
+  "_assets/images/figures/36.jpg": {
+    "file": "_assets/36.jpg",
+    "src": "_assets/images/figures/36.jpg"
+  },
+  "_assets/images/figures/38.jpg": {
+    "file": "_assets/38.jpg",
+    "src": "_assets/images/figures/38.jpg"
+  },
+  "_assets/images/figures/4.jpg": {
+    "file": "_assets/4.jpg",
+    "src": "_assets/images/figures/4.jpg"
+  },
+  "_assets/images/figures/40.jpg": {
+    "file": "_assets/40.jpg",
+    "src": "_assets/images/figures/40.jpg"
+  },
+  "_assets/images/figures/41.jpg": {
+    "file": "_assets/41.jpg",
+    "src": "_assets/images/figures/41.jpg"
+  },
+  "_assets/images/figures/42.jpg": {
+    "file": "_assets/42.jpg",
+    "src": "_assets/images/figures/42.jpg"
+  },
+  "_assets/images/figures/5.jpg": {
+    "file": "_assets/5.jpg",
+    "src": "_assets/images/figures/5.jpg"
+  },
+  "_assets/images/figures/6.jpg": {
+    "file": "_assets/6.jpg",
+    "src": "_assets/images/figures/6.jpg"
+  },
+  "_assets/images/figures/7.jpg": {
+    "file": "_assets/7.jpg",
+    "src": "_assets/images/figures/7.jpg"
+  },
+  "_assets/images/figures/8.jpg": {
+    "file": "_assets/8.jpg",
+    "src": "_assets/images/figures/8.jpg"
+  },
+  "_assets/images/figures/9.jpg": {
+    "file": "_assets/9.jpg",
+    "src": "_assets/images/figures/9.jpg"
   },
   "_assets/images/logo-getty.png": {
     "file": "_assets/logo-getty.png",
