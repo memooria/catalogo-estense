@@ -208,7 +208,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819435_Madonna%20col%20Bambino%20e%20san%20Giovanni%20Battista
     figure:
-      - id: "cat-2"
+      - id: "cat-18"
       
   - id: 19
     artista: Sandro Botticelli (scuola di)	
@@ -219,7 +219,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820335_Madonna%20col%20Bambino
     figure:
-      - id: "cat-2"
+      - id: "cat-19"
       
   - id: 20
     artista: Monte di Giovanni di Miniato detto del Fora	
@@ -230,7 +230,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/815611_Annunciazione
     figure:
-      - id: "cat-2"
+      - id: "cat-20"
 
   - id: 21
     artista: Scuola dell'Italia centrale		
@@ -241,7 +241,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819714_Piet%C3%A0
     figure:
-      - id: "cat-2"
+      - id: "cat-21"
 
   - id: 22
     artista: Scuola viterbese (?)	
@@ -252,7 +252,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/812395_Crocifissione
     figure:
-      - id: "cat-2"
+      - id: "cat-22"
 
   - id: 23
     artista: Michele da Firenze
@@ -274,7 +274,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820759_Sant'Antonino%20Martire
     figure:
-      - id: "cat-2"
+      - id: "cat-24"
 
   - id: 25
     artista: Angelo e Bartolomeo degli Erri	
@@ -307,7 +307,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818625_Annunciazione
     figure:
-      - id: "cat-2"
+      - id: "cat-27"
 
   - id: 28
     artista: Cristoforo Canozi da Lendinara
@@ -417,7 +417,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/817961_Storie%20della%20Passione:%20Andata%20al%20Calvario;%20Crocifissione;%20Compianto%20su%20Cristo%20morto
     figure:
-      - id: "cat-2"
+      - id: "cat-37"
 
   - id: 38
     artista: Giovan Francesco Maineri
@@ -438,7 +438,7 @@ object_list:
     dimensioni: n.d.
     collocazione: Galleria Estense, Modena
     figure:
-      - id: "cat-2"
+      - id: "cat-39"
 
   - id: 40
     artista: Lazzaro Bastiani
@@ -482,7 +482,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818314_Ritratto%20di%20giovane
     figure:
-      - id: "cat-2"
+      - id: "cat-43"
 
   - id: 44
     artista: Filippo Mazzola (attribuito a)
@@ -493,7 +493,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819868_Ritratto%20d'uomo
     figure:
-      - id: "cat-2"
+      - id: "cat-44"
 
   - id: 45
     artista: Scuola lombarda	
@@ -504,7 +504,7 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818682_Ritratto%20d'uomo%20di%20profilo
     figure:
-      - id: "cat-2"  
+      - id: "cat-45"  
 
   - id: 46
     artista: Girolamo Mocetto			
@@ -515,4 +515,4 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819826_Ritratto%20di%20giovinetto
     figure:
-      - id: "cat-2" 
+      - id: "cat-46" 
