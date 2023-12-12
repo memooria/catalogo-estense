@@ -7,9 +7,7 @@ object_display_order:
   - collocazione
   - inventario
   - iscrizione e timbri
-  - link
-  - figure 
-
+  
 object_list:
 
   - id: 1
