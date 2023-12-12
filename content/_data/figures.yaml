@@ -225,7 +225,7 @@ figure_list:
     zoom: true
 
   - id: "cat-30"
-    src: figures/30.jpg
+    src: figures/30a.jpg
     caption: "Opera magna in IIIF."
     credit: Mario Rossi
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/7feb6247-f56e-407f-be6d-d36f70b3469d/manifest
