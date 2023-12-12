@@ -1,5 +1,4 @@
 ---
-label: I
 title: Catalogo Estense Digitale
 subtitle: Un nuovo strumento di valorizzazione del patrimonio estense
 layout: essay
