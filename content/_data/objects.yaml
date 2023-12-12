@@ -340,7 +340,10 @@ object_list:
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818977_Pala%20delle%20tre%20croci
     figure:
-      - id: "cat-30"
+      - id: "cat-30a"
+      - id: "cat-30b"
+      - id: "cat-30c"
+      - id: "cat-30d"
 
   - id: 31
     artista: Francesco Bianchi Ferrari		
