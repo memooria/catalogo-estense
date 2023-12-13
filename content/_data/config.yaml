@@ -46,3 +46,6 @@ searchEnabled: true
 
 tableOfContents:
   contributorDivider: ' — '
+
+accordion:
+  controls: arrow
