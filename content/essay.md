@@ -1,6 +1,6 @@
 ---
 title: Catalogo Estense Digitale
-subtitle: Un nuovo strumento di valorizzazione del patrimonio estense
+subtitle: un nuovo strumento di valorizzazione del patrimonio estense
 layout: essay
 order: 30
 class: page-one
