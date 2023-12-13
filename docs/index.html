@@ -76,7 +76,7 @@
       }
     </script>
 
-    <link rel="icon" href="/_assets/images/icons/favicon.ico">
+    <link rel="icon" href="data:image/x-icon;base64,AAABAAEADxAAAAEAIAAoBAAAFgAAACgAAAAPAAAAIAAAAAEAIAAAAAAAwAMAABILAAASCwAAAAAAAAAAAAACAgIAAAAAAAAAAB8AAADDAAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAAqAAAAAIDAwMAAAAAAAAAACwAAABvAAAAcAAAAHAAAABwAAAAcAAAAHAAAABwAAAAcQAAAHQAAADSAAAAqgAAAAIAAAABAAAAMgAAAE0AAABJAAAASQAAAEkAAABJAAAASQAAAEkAAABJAAAAPQAAAAkAAACmAAAAnwAAAAEAAAACAAAApQAAAPsAAADvAAAA7wAAAO8AAADvAAAA7wAAAO8AAAD1AAAA3AAAACIAAAByAAAAMwAAAAAAAAACAAAAqwAAAL4AAAA9AAAAPAAAADwAAAA8AAAAPAAAADkAAACGAAAA4QAAACEBAQEJAAAAAQAAAAAAAAACAAAArAAAAKkAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAzgAAABcAAAAAAAAAAAAAAAAAAAACAAAArAAAAKkAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABFAAAASAAAACYAAAAwAAAAAAAAAAAAAAACAAAArAAAAKkAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAEAAAALQAAABhAAAAAAAAAAAAAAACAAAArAAAAKkAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAAAN8AAABhAAAAAAAAAAAAAAACAAAArAAAAKkAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAAAN8AAABiAAAAAAAAAAAAAAACAAAArAAAAKkAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAAAN8AAABjAAAAAAAAAAAAAAACAAAArAAAAKkAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAAAN8AAABjAAAAAAAAAAAAAAACAAAArAAAAKkAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAAAN8AAABjAAAAAAAAAAAAAAACAAAArAAAAKkAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAAAN8AAABjAAAAAAAAAAAAAAACAAAApwAAANIAAAB1AAAAdAAAAHQAAAB0AAAAdAAAAHQAAABzAAAAhQAAAO0AAABfAAAAAAAAAAAAAAAAAAAAawAAAPkAAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAOAAAAAyAAAAAAAAAADAAAAAwAAAAAAAAAAAAgAAAAIAAA+OAAAPhgAAD4YAAA/GAAAPxgAAD8YAAA/GAAAPxgAAD8YAAAAGAACABgAA">
     <!--
             styles are already imported in _assets/javascript/application/index.js
             and rendered as inline minified <style type="text/css">...</style> blocks,
@@ -90,7 +90,10 @@
 // @see https://www.npmjs.com/package/template-polyfill
 document.createElement('template')
 </script> -->
-  <script type="module" src="/_assets/javascript/lightbox/index.js"></script><script type="module" src="/_assets/javascript/modal/index.js"></script></head>
+    <script type="module" crossorigin src="/_assets/index-acd4d191.js"></script>
+    <script type="module" crossorigin src="/_assets/index-1be1e88e.js"></script>
+    <link rel="stylesheet" href="/_assets/index.css">
+  </head>
 
   <body>
     <svg style="display: none">
@@ -420,7 +423,7 @@ document.createElement('template')
 
           <footer class="quire-menu__footer" role="contentinfo">
             <div class="quire-copyright">
-              <img src="/_assets/images/logo-getty.png" class="copyright__publisher-logo" alt="J. Paul Getty Trust">
+              <img src="/_assets/logo-getty.png" class="copyright__publisher-logo" alt="J. Paul Getty Trust">
               <p>© 2023 Gallerie Estensi</p>
               <a class="quire-copyright__icon__link" href="https://creativecommons.org/licenses/by/4.0/" rel="license" target="_blank">
                 <svg class="quire-copyright__icon">
@@ -488,12 +491,36 @@ document.createElement('template')
             <div class="quire-navbar-controls__center">
               <ul class="quire-navbar-page-controls" role="navigation" aria-label="quick">
                 <li class="quire-navbar-page-controls__item quire-home-page">
-                  <a href="/Indice/" rel="next">
+                  <a href="/catalogue/" rel="next">
                     <span class="visually-hidden">Next Page: </span>
                     <span class="quire-navbar-button play-button">
                       <svg data-outputs-exclude="epub,pdf">
                         <switch>
                           <use xlink:href="#start-icon"></use>
+                        </switch>
+                      </svg>
+                    </span>
+                  </a>
+                </li>
+
+                <li class="quire-navbar-page-controls__item quire-previous-page">
+                  <a href="/nuova_directory/miofile/" rel="previous">
+                    <span class="visually-hidden">Previous Page: </span>
+                    <svg class="left-icon" data-outputs-exclude="epub,pdf">
+                      <switch>
+                        <use xlink:href="#left-arrow-icon"></use>
+                      </switch>
+                    </svg>
+                  </a>
+                </li>
+
+                <li class="quire-navbar-page-controls__item quire-home-page">
+                  <a href="/" rel="home">
+                    <span class="visually-hidden">Home Page: </span>
+                    <span class="quire-navbar-button home-button">
+                      <svg data-outputs-exclude="epub,pdf">
+                        <switch>
+                          <use xlink:href="#home-icon"></use>
                         </switch>
                       </svg>
                     </span>
@@ -513,8 +540,8 @@ document.createElement('template')
             </div>
           </nav>
           <div class="quire-progress-bar">
-            <div style="width: 1.8181818181818181%">
-              <span>1/55</span>
+            <div style="width: 7.2727272727272725%">
+              <span>4/55</span>
             </div>
           </div>
         </div>
@@ -522,7 +549,7 @@ document.createElement('template')
         <main class="quire-page frontmatter quire-cover" data-output-path="_site/index.html" data-page-id="index">
           <section class="quire-cover__hero hero is-fullheight">
             <div class="quire-cover__overlay" style="
-                background-image: url('/_assets/images/Galleria-Estense_Modena.jpg');
+                background-image: url('/_assets/Galleria-Estense_Modena.jpg');
               ">
             <div class="quire-cover__hero-body hero-body">
               <div class="container is-fluid">
@@ -606,8 +633,17 @@ document.createElement('template')
 
           <div class="quire-contents-buttons" data-outputs-exclude="epub,pdf">
             <ul>
+              <li class="quire-nav-button prev">
+                <a href="/nuova_directory/miofile/"><svg data-outputs-exclude="epub,pdf">
+                    <switch><use xlink:href="#left-arrow-icon"></use></switch>
+                  </svg>
+                  <span class="visually-hidden" data-outputs-exclude="epub,pdf">Go back a page</span>
+                  &nbsp;<span class="nav-title">Back</span></a>
+                <span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
+              </li>
+
               <li class="quire-nav-button next">
-                <a href="/Indice/"><span class="nav-title">Next</span>&nbsp;<svg data-outputs-exclude="epub,pdf">
+                <a href="/intro/"><span class="nav-title">Next</span>&nbsp;<svg data-outputs-exclude="epub,pdf">
                     <switch><use xlink:href="#right-arrow-icon"></use></switch>
                   </svg>
                   <span class="visually-hidden" data-outputs-exclude="epub,pdf">Go back next page</span>
@@ -666,7 +702,7 @@ document.createElement('template')
       </div>
     </div>
 
-    <script type="module" src="/_assets/javascript/application/index.js"></script>
+    
   
 
 </body></html>
