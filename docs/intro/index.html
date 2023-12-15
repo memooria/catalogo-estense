@@ -19,8 +19,6 @@
     <script src="https://cdn.jsdelivr.net/npm/@digirati/canvas-panel-web-components@1.0.54" type="module"></script>
     <script src="https://cdn.jsdelivr.net/npm/@iiif/vault-helpers@latest/dist/index.umd.js"></script>
 
-    <link rel="author" href="https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm">
-
     <link rel="schema.dcterms" href="https://purl.org/dc/terms/">
     <meta name="dcterms.title" content="Catalogo Scientifico Digitale delle Gallerie Estensi">
     <meta name="dcterms.date" content="Thu Dec 01 2022 00:00:00 GMT+0000 (Coordinated Universal Time)">
@@ -29,6 +27,7 @@
     <meta name="dcterms.language" content="en">
     <meta name="dcterms.rights" content="© 2023 Gallerie Estensi">
     <meta name="dcterms.creator" content="Martina Bagnoli">
+    <meta name="dcterms.contributor" content="Mauro Minardi">
     <meta name="dcterms.publisher" content="J. Paul Getty Trust, Los Angeles">
     <meta name="dcterms.subject" content="PHOTOGRAPHY / Subjects &amp; Themes / Historical">
     <meta name="dcterms.subject" content="photography, black-and-white, great despression">
@@ -63,9 +62,8 @@
             {
               "type": "Person",
               "name": "Martina Bagnoli",
-              "jobTitle": "Senior Curator of Photographs",
-              "affiliation": "J. Paul Getty Museum",
-              "identifier": "https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm"
+              "jobTitle": "Direttore Generale",
+              "affiliation": "Gallerie Estensi"
             }
           ],
           "datePublished": "2022-12-01T00:00:00.000Z",
@@ -200,7 +198,7 @@ document.createElement('template')
                 <a href="/intro/" class="active">Introduzione</a>
               </li>
               <li class="page-item">
-                <a href="/essay/" class="">I. American Photographs</a>
+                <a href="/essay/" class="">Catalogo Estense Digitale</a>
               </li>
               <li class="section-item">
                 <a href="/catalogue/" class="">Catalogo</a>
@@ -336,8 +334,9 @@ document.createElement('template')
                     <a href="/catalogue/35/" class="">Cat. 35. Cosmè Tura, Sant’Antonio da Padova</a>
                   </li>
                   <li class="page-item">
-                    <a href="/catalogue/36/" class="">Cat. 36. Ercole De’ Roberti, Giovan Francesco Maineri
-                      (?), Lucrezia, Bruto e Collatino</a>
+                    <a href="/catalogue/36/" class="">Cat. 36. Ercole de’ Roberti (Ferrara, 1450 ca. - 1496) e
+                      collaboratore (Giovan Francesco Maineri ?), Lucrezia,
+                      Bruto e Collatino</a>
                   </li>
                   <li class="page-item">
                     <a href="/catalogue/37/" class="">Cat. 37. Giovan Francesco Maineri (attribuito a),
@@ -499,13 +498,16 @@ document.createElement('template')
             <div class="quire-navbar-controls__center">
               <ul class="quire-navbar-page-controls" role="navigation" aria-label="quick">
                 <li class="quire-navbar-page-controls__item quire-previous-page">
-                  <a href="/nuova_directory/miofile/" rel="previous">
+
+                  <a href="/" rel="previous">
+
                     <span class="visually-hidden">Previous Page: </span>
                     <svg class="left-icon" data-outputs-exclude="epub,pdf">
                       <switch>
                         <use xlink:href="#left-arrow-icon"></use>
                       </switch>
                     </svg>
+
                   </a>
                 </li>
 
@@ -523,9 +525,11 @@ document.createElement('template')
                 </li>
 
                 <li class="quire-navbar-page-controls__item quire-next-page">
-                  <a href="/essay/" rel="next">
+
+                  <a href="/catalogue/1/" rel="next">
                     <span class="visually-hidden">Next Page: </span>
-                    I. American Photographs
+                    Cat. 1. Wiligelmo, Telamone
+
                     <svg data-outputs-exclude="epub,pdf">
                       <switch>
                         <use xlink:href="#right-arrow-icon"></use>
@@ -547,16 +551,16 @@ document.createElement('template')
             </div>
           </nav>
           <div class="quire-progress-bar">
-            <div style="width: 9.090909090909092%">
-              <span>5/55</span>
+
+            <div style="width: 10.909090909090908%">
+              <span>6/55</span>
+
             </div>
           </div>
         </div>
 
         <main class="quire-page frontmatter quire-splash" data-output-path="_site/intro/index.html" data-page-id="intro">
-          <section class="quire-page__header hero hero-image" style="
-              background-image: url('/_assets/images/figures/lange-house.jpg');
-            ">
+          <section class="quire-page__header hero">
             <div class="hero-body">
               <h1 class="quire-page__header__title" id="page-header-intro">
                 Introduzione: Un catalogo scientifico digitale delle Gallerie
@@ -567,57 +571,56 @@ document.createElement('template')
 
           <section class="section quire-page__content">
             <div class="container">
-              <div class="content">
+              <div class="content no-image-above">
                 <p>
-                  Dorothea Lange had an extraordinary life and career as a
-                  prolific photographer. She worked for Arnold Genthe in his
-                  portrait studio in New York and studied photography with
-                  Clarence White at Columbia University. In 1918 she began to
-                  travel around the world to make her living as a photographer.
-                  She found herself stranded in San Francisco, so she opened a
-                  photographic studio there. Paul Taylor, who would become her
-                  second husband, hired her to document migratory workers in
-                  California.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Nullam commodo magna ac mauris convallis lacinia. Sed
+                  vestibulum fermentum elit, nec commodo lectus interdum ac.
+                  Pellentesque habitant morbi tristique senectus et netus et
+                  malesuada fames ac turpis egestas. Sed ut fringilla urna.
+                  Quisque consequat justo id libero consequat, in tristique
+                  risus eleifend. Proin sed odio eget lacus suscipit congue.
+                  Suspendisse at ligula eu mi fermentum congue. Vivamus dapibus,
+                  quam eu placerat dapibus, purus libero eleifend elit, nec
+                  dictum turpis metus vitae lectus. Maecenas rutrum ex ac nisi
+                  bibendum, ac lacinia nisi sodales. Nulla facilisi. Integer
+                  vitae ex justo. Donec pharetra vitae lectus ut feugiat. Nunc
+                  sollicitudin augue id justo feugiat vestibulum.
                 </p>
                 <p>
-                  In 1935 she began to work for the Resettlement Administration,
-                  later known as the Farm Security Administration. During this
-                  period, she made her most famous image,
-                  <a href="/catalogue/1/"><em>Human Erosion in California (Migrant Mother)</em></a>, of Native American Florence Owens Thompson and her children
-                  in a pea-pickers’ camp. Other less famous subjects included
-                  Japanese internment camps and scenes of workers in factories
-                  during World War II. Lange became the first woman awarded a
-                  Guggenheim fellowship, and she spent nearly ten years making
-                  photo essays for <em>Life</em> and other magazines. She also
-                  traveled extensively, making photo essays in Vietnam, Ireland,
-                  Pakistan, India, and elsewhere.
+                  Praesent fermentum, nulla sit amet convallis efficitur, lectus
+                  nulla consequat velit, sit amet vehicula justo ligula eu odio.
+                  Mauris at elit sed lorem eleifend fringilla id vel enim. Sed
+                  sodales sagittis arcu, eu vestibulum libero consectetur id.
+                  Fusce commodo odio vel lectus ullamcorper, vitae congue sapien
+                  feugiat. Duis bibendum est a erat ultrices, eu bibendum neque
+                  ultrices. Maecenas vitae condimentum ligula. In hac habitasse
+                  platea dictumst. Cras at dui quis purus dapibus volutpat vel
+                  id nunc. Sed non lectus a ipsum feugiat ullamcorper. Integer
+                  et diam et turpis eleifend lobortis.
                 </p>
                 <p>
-                  Walker Evans began to photograph in the late 1920s, making
-                  snapshots during a European trip. Upon his return to New York,
-                  he published his first images in 1930. During the Great
-                  Depression, Evans began to photograph for the Resettlement
-                  Administration, later known as the Farm aecurity
-                  Administration (FSA), documenting workers and architecture in
-                  the Southeastern states. In 1936 he traveled with the writer
-                  James Agee to illustrate an article on tenant farm families
-                  for <em>Fortune</em> magazine; the book
-                  <em>Let Us Now Praise Famous Men</em> came out of this
-                  collaboration.
-                </p>
-                <p>
-                  Throughout his career Evans contributed photographs to
-                  numerous publications, including three devoted solely to his
-                  work. In 1965 he left Fortune, where he had been a staff
-                  photographer for twenty years, to become a professor of
-                  photography and graphic design at Yale University. He remained
-                  in the position until 1974, a year before his death.
+                  Morbi lobortis eleifend elit, at luctus purus convallis quis.
+                  Nulla vitae nisl sit amet sapien dictum faucibus. Nam
+                  sollicitudin augue nec orci laoreet, id faucibus felis dictum.
+                  Sed posuere quam ut justo vehicula, nec fermentum metus
+                  vulputate. Fusce tristique sodales orci a vestibulum.
+                  Pellentesque quis felis vel est placerat lacinia. Aenean
+                  vehicula efficitur ante eget viverra. Vivamus auctor, quam a
+                  dapibus fermentum, odio est facilisis ex, sed ullamcorper urna
+                  augue at metus. Sed eu placerat eros. Integer sed condimentum
+                  purus. Fusce tincidunt vestibulum urna, sit amet egestas
+                  lectus bibendum in. Sed viverra libero id justo dictum
+                  fermentum. Vivamus pulvinar odio a massa posuere, sit amet
+                  volutpat nisi molestie.
                 </p>
               </div>
               <div class="quire-contents-buttons" data-outputs-exclude="epub,pdf">
                 <ul>
                   <li class="quire-nav-button prev">
+
                     <a href="/nuova_directory/miofile/"><svg data-outputs-exclude="epub,pdf">
+
                         <switch>
                           <use xlink:href="#left-arrow-icon"></use>
                         </switch>
@@ -628,7 +631,9 @@ document.createElement('template')
                   </li>
 
                   <li class="quire-nav-button next">
-                    <a href="/essay/"><span class="nav-title">Next</span>&nbsp;<svg data-outputs-exclude="epub,pdf">
+
+                    <a href="/catalogue/1/"><span class="nav-title">Next</span>&nbsp;<svg data-outputs-exclude="epub,pdf">
+
                         <switch>
                           <use xlink:href="#right-arrow-icon"></use>
                         </switch>

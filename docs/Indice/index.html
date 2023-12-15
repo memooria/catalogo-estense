@@ -17,8 +17,6 @@
     <script src="https://cdn.jsdelivr.net/npm/@digirati/canvas-panel-web-components@1.0.54" type="module"></script>
     <script src="https://cdn.jsdelivr.net/npm/@iiif/vault-helpers@latest/dist/index.umd.js"></script>
 
-    <link rel="author" href="https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm">
-
     <link rel="schema.dcterms" href="https://purl.org/dc/terms/">
     <meta name="dcterms.title" content="Catalogo Scientifico Digitale delle Gallerie Estensi">
     <meta name="dcterms.date" content="Thu Dec 01 2022 00:00:00 GMT+0000 (Coordinated Universal Time)">
@@ -27,6 +25,7 @@
     <meta name="dcterms.language" content="en">
     <meta name="dcterms.rights" content="© 2023 Gallerie Estensi">
     <meta name="dcterms.creator" content="Martina Bagnoli">
+    <meta name="dcterms.contributor" content="Mauro Minardi">
     <meta name="dcterms.publisher" content="J. Paul Getty Trust, Los Angeles">
     <meta name="dcterms.subject" content="PHOTOGRAPHY / Subjects &amp; Themes / Historical">
     <meta name="dcterms.subject" content="photography, black-and-white, great despression">
@@ -61,9 +60,8 @@
             {
               "type": "Person",
               "name": "Martina Bagnoli",
-              "jobTitle": "Senior Curator of Photographs",
-              "affiliation": "J. Paul Getty Museum",
-              "identifier": "https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm"
+              "jobTitle": "Direttore Generale",
+              "affiliation": "Gallerie Estensi"
             }
           ],
           "datePublished": "2022-12-01T00:00:00.000Z",
@@ -200,7 +198,7 @@ document.createElement('template')
                 <a href="/intro/" class="">Introduzione</a>
               </li>
               <li class="page-item">
-                <a href="/essay/" class="">I. American Photographs</a>
+                <a href="/essay/" class="">Catalogo Estense Digitale</a>
               </li>
               <li class="section-item">
                 <a href="/catalogue/" class="">Catalogo</a>
@@ -336,8 +334,9 @@ document.createElement('template')
                     <a href="/catalogue/35/" class="">Cat. 35. Cosmè Tura, Sant’Antonio da Padova</a>
                   </li>
                   <li class="page-item">
-                    <a href="/catalogue/36/" class="">Cat. 36. Ercole De’ Roberti, Giovan Francesco Maineri
-                      (?), Lucrezia, Bruto e Collatino</a>
+                    <a href="/catalogue/36/" class="">Cat. 36. Ercole de’ Roberti (Ferrara, 1450 ca. - 1496) e
+                      collaboratore (Giovan Francesco Maineri ?), Lucrezia,
+                      Bruto e Collatino</a>
                   </li>
                   <li class="page-item">
                     <a href="/catalogue/37/" class="">Cat. 37. Giovan Francesco Maineri (attribuito a),
@@ -496,35 +495,12 @@ document.createElement('template')
             </div>
             <div class="quire-navbar-controls__center">
               <ul class="quire-navbar-page-controls" role="navigation" aria-label="quick">
-                <li class="quire-navbar-page-controls__item quire-previous-page">
-                  <a href="/" rel="previous">
-                    <span class="visually-hidden">Previous Page: </span>
-                    <svg class="left-icon" data-outputs-exclude="epub,pdf">
-                      <switch>
-                        <use xlink:href="#left-arrow-icon"></use>
-                      </switch>
-                    </svg>
-                    Cover
-                  </a>
-                </li>
-
-                <li class="quire-navbar-page-controls__item quire-home-page">
-                  <a href="/" rel="home">
-                    <span class="visually-hidden">Home Page: </span>
-                    <span class="quire-navbar-button home-button">
-                      <svg data-outputs-exclude="epub,pdf">
-                        <switch>
-                          <use xlink:href="#home-icon"></use>
-                        </switch>
-                      </svg>
-                    </span>
-                  </a>
-                </li>
-
                 <li class="quire-navbar-page-controls__item quire-next-page">
-                  <a href="/catalogue/" rel="next">
+
+                  <a href="/essay/" rel="next">
                     <span class="visually-hidden">Next Page: </span>
-                    Catalogo
+                    Catalogo Estense Digitale
+
                     <svg data-outputs-exclude="epub,pdf">
                       <switch>
                         <use xlink:href="#right-arrow-icon"></use>
@@ -546,8 +522,8 @@ document.createElement('template')
             </div>
           </nav>
           <div class="quire-progress-bar">
-            <div style="width: 3.6363636363636362%">
-              <span>2/55</span>
+            <div style="width: 1.8181818181818181%">
+              <span>1/55</span>
             </div>
           </div>
         </div>
@@ -574,7 +550,8 @@ document.createElement('template')
                           </svg> </span></a>
                     </li>
                     <li class="level-0 page-item">
-                      <a href="/essay/">I. American Photographs: Evans in Middletown<span class="contributor-divider">
+                      <a href="/essay/">Catalogo Estense Digitale: un nuovo strumento di
+                        valorizzazione del patrimonio estense<span class="contributor-divider">
                           — </span><span class="contributor"><span class="quire-contributor">Martina Bagnoli</span></span><span class="arrow" data-outputs-exclude="epub,pdf"><svg data-outputs-exclude="epub,pdf">
                             <switch>
                               <use xlink:href="#arrow-forward-icon"></use>
@@ -868,8 +845,9 @@ document.createElement('template')
                               </svg> </span></a>
                         </li>
                         <li class="level-1 page-item">
-                          <a href="/catalogue/36/">Cat. 36. Ercole De’ Roberti, Giovan Francesco
-                            Maineri (?), Lucrezia, Bruto e Collatino<span class="arrow" data-outputs-exclude="epub,pdf"><svg data-outputs-exclude="epub,pdf">
+                          <a href="/catalogue/36/">Cat. 36. Ercole de’ Roberti (Ferrara, 1450 ca. -
+                            1496) e collaboratore (Giovan Francesco Maineri ?),
+                            Lucrezia, Bruto e Collatino<span class="arrow" data-outputs-exclude="epub,pdf"><svg data-outputs-exclude="epub,pdf">
                                 <switch>
                                   <use xlink:href="#arrow-forward-icon"></use>
                                 </switch>
@@ -985,20 +963,11 @@ document.createElement('template')
               </div>
               <div class="quire-contents-buttons" data-outputs-exclude="epub,pdf">
                 <ul>
-                  <li class="quire-nav-button prev">
-                    <a href="/"><svg data-outputs-exclude="epub,pdf">
-                        <switch>
-                          <use xlink:href="#left-arrow-icon"></use>
-                        </switch>
-                      </svg>
-                      <span class="visually-hidden" data-outputs-exclude="epub,pdf">Go back a page</span>
-                      &nbsp;<span class="nav-title">Back</span></a>
-                    <span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
-                  </li>
-
                   <li class="quire-nav-button next">
+
                     <a href="/catalogue/"><span class="nav-title">Next</span>&nbsp;<svg data-outputs-exclude="epub,pdf">
-                        <switch>
+
+                      <switch>
                           <use xlink:href="#right-arrow-icon"></use>
                         </switch>
                       </svg>

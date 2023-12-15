@@ -147,9 +147,9 @@
     "file": "_assets/Galleria-Estense_Modena.jpg",
     "src": "_assets/images/Galleria-Estense_Modena.jpg"
   },
-  "_assets/images/contributors/judith-keller.jpg": {
-    "file": "_assets/judith-keller.jpg",
-    "src": "_assets/images/contributors/judith-keller.jpg"
+  "_assets/images/contributors/martinabagnoli.jpg": {
+    "file": "_assets/martinabagnoli.jpg",
+    "src": "_assets/images/contributors/martinabagnoli.jpg"
   },
   "_assets/images/figures/1.jpg": {
     "file": "_assets/1.jpg",
@@ -187,13 +187,37 @@
     "file": "_assets/17.jpg",
     "src": "_assets/images/figures/17.jpg"
   },
+  "_assets/images/figures/18.jpg": {
+    "file": "_assets/18.jpg",
+    "src": "_assets/images/figures/18.jpg"
+  },
+  "_assets/images/figures/19.jpg": {
+    "file": "_assets/19.jpg",
+    "src": "_assets/images/figures/19.jpg"
+  },
   "_assets/images/figures/2.jpg": {
     "file": "_assets/2.jpg",
     "src": "_assets/images/figures/2.jpg"
   },
+  "_assets/images/figures/20.jpg": {
+    "file": "_assets/20.jpg",
+    "src": "_assets/images/figures/20.jpg"
+  },
+  "_assets/images/figures/21.jpg": {
+    "file": "_assets/21.jpg",
+    "src": "_assets/images/figures/21.jpg"
+  },
+  "_assets/images/figures/22.jpg": {
+    "file": "_assets/22.jpg",
+    "src": "_assets/images/figures/22.jpg"
+  },
   "_assets/images/figures/23.jpg": {
     "file": "_assets/23.jpg",
     "src": "_assets/images/figures/23.jpg"
+  },
+  "_assets/images/figures/24.jpg": {
+    "file": "_assets/24.jpg",
+    "src": "_assets/images/figures/24.jpg"
   },
   "_assets/images/figures/25.jpg": {
     "file": "_assets/25.jpg",
@@ -203,6 +227,10 @@
     "file": "_assets/26.jpg",
     "src": "_assets/images/figures/26.jpg"
   },
+  "_assets/images/figures/27.jpg": {
+    "file": "_assets/27.jpg",
+    "src": "_assets/images/figures/27.jpg"
+  },
   "_assets/images/figures/28.jpg": {
     "file": "_assets/28.jpg",
     "src": "_assets/images/figures/28.jpg"
@@ -210,6 +238,14 @@
   "_assets/images/figures/29.jpg": {
     "file": "_assets/29.jpg",
     "src": "_assets/images/figures/29.jpg"
+  },
+  "_assets/images/figures/3.jpg": {
+    "file": "_assets/3.jpg",
+    "src": "_assets/images/figures/3.jpg"
+  },
+  "_assets/images/figures/30a.jpg": {
+    "file": "_assets/30a.jpg",
+    "src": "_assets/images/figures/30a.jpg"
   },
   "_assets/images/figures/31.jpg": {
     "file": "_assets/31.jpg",
@@ -235,9 +271,17 @@
     "file": "_assets/36.jpg",
     "src": "_assets/images/figures/36.jpg"
   },
+  "_assets/images/figures/37.jpg": {
+    "file": "_assets/37.jpg",
+    "src": "_assets/images/figures/37.jpg"
+  },
   "_assets/images/figures/38.jpg": {
     "file": "_assets/38.jpg",
     "src": "_assets/images/figures/38.jpg"
+  },
+  "_assets/images/figures/39.jpg": {
+    "file": "_assets/39.jpg",
+    "src": "_assets/images/figures/39.jpg"
   },
   "_assets/images/figures/4.jpg": {
     "file": "_assets/4.jpg",
@@ -254,6 +298,22 @@
   "_assets/images/figures/42.jpg": {
     "file": "_assets/42.jpg",
     "src": "_assets/images/figures/42.jpg"
+  },
+  "_assets/images/figures/43.jpg": {
+    "file": "_assets/43.jpg",
+    "src": "_assets/images/figures/43.jpg"
+  },
+  "_assets/images/figures/44.jpg": {
+    "file": "_assets/44.jpg",
+    "src": "_assets/images/figures/44.jpg"
+  },
+  "_assets/images/figures/45.jpg": {
+    "file": "_assets/45.jpg",
+    "src": "_assets/images/figures/45.jpg"
+  },
+  "_assets/images/figures/46.jpg": {
+    "file": "_assets/46.jpg",
+    "src": "_assets/images/figures/46.jpg"
   },
   "_assets/images/figures/5.jpg": {
     "file": "_assets/5.jpg",
