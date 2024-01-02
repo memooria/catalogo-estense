@@ -2,80 +2,70 @@ figure_list:
 
   - id: "cat-1"
     src: figures/1.jpg
-    caption: "Telamone"
-    credit: Wiligelmo
+    caption: "Wiligelmo, Telamone"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/c4668a96-0669-4290-a2e0-b46e0fe6e2a8/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/c4668a96-0669-4290-a2e0-b46e0fe6e2a8/canvas/1242a172-db1a-422b-9b08-979bacec1ab5
     zoom: true
 
   - id: "cat-2"
     src: figures/2.jpg
-    caption: "Madonna col Bambino"
-    credit: Wiligelmo
+    caption: "Wiligelmo, Madonna col Bambino"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/69a7636c-3a3e-4236-b519-30554441d8d5/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/69a7636c-3a3e-4236-b519-30554441d8d5/canvas/a568e7a3-8dd6-4975-8a96-2f0743bdefc9
     zoom: true
 
   - id: "cat-3"
     src: figures/3.jpg
-    caption: "Crocifissione e Deposizione"
-    credit: Pittore veneto
+    caption: "Pittore veneto, Crocifissione e Deposizione"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/69f6c2db-db8f-4c0d-a3da-086996bc1712/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/69f6c2db-db8f-4c0d-a3da-086996bc1712/canvas/7f610289-e51e-4a97-bbb0-2487d4ff2dc2
     zoom: true
 
   - id: "cat-4"
     src: figures/4.jpg
-    caption: "Madonna col Bambino in trono fra angeli"
-    credit: Francesco di Neri da Volterra
+    caption: "Francesco di Neri da Volterra, Madonna col Bambino in trono fra angeli"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/6ed70fa4-f186-4bfa-bd4a-1681e27bba9a/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/6ed70fa4-f186-4bfa-bd4a-1681e27bba9a/canvas/11c65085-05cf-42e5-a916-61ee955221cf
     zoom: true
 
   - id: "cat-5"
     src: figures/5.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Tommaso da Modena, Madonna col Bambino e santi, Discesa di Cristo al limbo"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/a8ea0345-7a49-4055-8299-2bd6385a6ce6/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/a8ea0345-7a49-4055-8299-2bd6385a6ce6/canvas/885e2cca-81a2-4af9-b75f-87cc86366577
     zoom: true
 
   - id: "cat-6"
     src: figures/6.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Barnaba da Modena, Madonna col Bambino e santi, Crocifissione"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/484e0a0c-81d8-4911-a4c5-13e728c669ec/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/484e0a0c-81d8-4911-a4c5-13e728c669ec/canvas/00a8f66e-2686-4d99-9411-f9cff9c85432
     zoom: true
 
   - id: "cat-7"
     src: figures/7.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Paolo da Modena, Madonna dell'Umiltà"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/7f72f48c-3621-4af7-a093-ff7108330232/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/7f72f48c-3621-4af7-a093-ff7108330232/canvas/31255d89-6d71-40dc-a98d-4f6ba893ee2e
     zoom: true
 
   - id: "cat-8"
     src: figures/8.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Simone dei Crocifissi, Madonna col Bambino in trono fra angeli"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/bde55df3-9766-4a3d-90b9-0ca2baf36716/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/bde55df3-9766-4a3d-90b9-0ca2baf36716/canvas/79521596-5667-4653-aecf-9d2b4981a9b6
     zoom: true
 
   - id: "cat-9"
     src: figures/9.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Maestro di Torre in Palme, Madonna col Bambino e santi, Cristo nel sepolcro, Annunciazione"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/cf5de7e9-c864-4c4e-8ee1-b2c40fe7c0b6/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/cf5de7e9-c864-4c4e-8ee1-b2c40fe7c0b6/canvas/11d12114-2eaa-49f7-85c9-ee7c6173bc66
     zoom: true
 
   - id: "cat-10"  
     src: figures/10.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Paolo di Giovanni Fei, Madonna col Bambino"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/e0a90690-3ecc-4d4e-b4a7-3a2010bd5d9d/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/e0a90690-3ecc-4d4e-b4a7-3a2010bd5d9d/canvas/15180f34-87d4-429e-b438-7a9ed17a2301
     zoom: true
