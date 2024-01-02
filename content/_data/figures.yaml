@@ -72,80 +72,70 @@ figure_list:
 
   - id: "cat-11"
     src: figures/11.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Giovanni di Paolo, Adorazione dei Magi"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/8c03fc72-139c-437c-aa9b-b624be7a6720/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/8c03fc72-139c-437c-aa9b-b624be7a6720/canvas/ac0f185e-e467-4d12-b45a-4563d52467e3
     zoom: true
 
   - id: "cat-12"
     src: figures/12.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Arcangelo di Cola da Camerino, Esequie di san Zenobi; Martirio di sant'Andrea; Deposizione di Cristo; Martirio di san Giovanni Evangelista; Martirio di santa Caterina d'Alessandria"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/ac36bd61-592b-46d7-a54c-eba38d628c6c/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/ac36bd61-592b-46d7-a54c-eba38d628c6c/canvas/2096a32f-1a38-45f3-a680-8eb5f9c9ee5f
     zoom: true
 
   - id: "cat-13"
     src: figures/13.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Secondo Maestro di Carpi, Leggenda di san Giovanni Boccadoro"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/89ba2e36-6c1a-4703-8995-3ba6b9b457f2/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/89ba2e36-6c1a-4703-8995-3ba6b9b457f2/canvas/51ab2642-3c84-4986-9d82-2d547937bd1d
     zoom: true
 
   - id: "cat-14"  
     src: figures/14.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Apollonio di Giovanni, La novella di Griselda"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/ed680a15-895c-4ea3-a866-486d8fd88801/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/ed680a15-895c-4ea3-a866-486d8fd88801/canvas/a9df8b9e-f672-4f21-bad3-a762b856981c
     zoom: true
 
   - id: "cat-15"
     src: figures/15.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Giovanni Antonio Bellinzoni da Pesaro, San Giovanni Battista"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/736577fe-3daa-49b3-9c6e-2e84451204df/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/736577fe-3daa-49b3-9c6e-2e84451204df/canvas/83bf90f8-c81d-4f25-9dfb-0412ce37c82a
     zoom: true
 
   - id: "cat-16"
     src: figures/16.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Francesco Botticini, Adorazione del Bambino"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/3cffc2fd-3d9e-4837-a41c-6b06cce8eb3a/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/3cffc2fd-3d9e-4837-a41c-6b06cce8eb3a/canvas/273d4349-ddfa-4b48-94fc-296d4274525d
     zoom: true
 
   - id: "cat-17"
     src: figures/17.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Lorenzo di Credi, Martirio di san Sebastiano"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/25c29820-a3cc-49e7-845b-2d3d0ed6dddc/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/25c29820-a3cc-49e7-845b-2d3d0ed6dddc/canvas/29cfefe7-59c9-4031-b3c2-5eda0a19585c
     zoom: true
 
   - id: "cat-18"
     src: figures/18.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Sandro Botticelli (scuola di), Madonna col Bambino e san Giovanni Battista"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/7c7fdc62-fd58-4c08-9313-e7e43e6be634/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/7c7fdc62-fd58-4c08-9313-e7e43e6be634/canvas/82c09fe0-fa72-4126-83d2-4cd810452083
     zoom: true
 
   - id: "cat-19"
     src: figures/19.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Sandro Botticelli (scuola di), Madonna col Bambino"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/f7adacb1-5aaf-4abe-a3c1-8f2b61265138/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/f7adacb1-5aaf-4abe-a3c1-8f2b61265138/canvas/9bfc6738-6225-489e-aa8b-e0536b44a510
     zoom: true
 
   - id: "cat-20"
     src: figures/20.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Monte di Giovanni di Miniato, Annunciazione"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/1cef257d-d6e2-4f3a-977b-caaf6e37999f/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/1cef257d-d6e2-4f3a-977b-caaf6e37999f/canvas/c8189222-d680-4ef2-b688-b58ae4007c86
     zoom: true
