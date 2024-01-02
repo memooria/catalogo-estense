@@ -2,38 +2,32 @@ figure_list:
 
   - id: "cat-1"
     src: figures/1.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Telamone"
+    credit: Wiligelmo
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/c4668a96-0669-4290-a2e0-b46e0fe6e2a8/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/c4668a96-0669-4290-a2e0-b46e0fe6e2a8/canvas/1242a172-db1a-422b-9b08-979bacec1ab5
     zoom: true
 
-  - id: "cat-1.1"
-    src: figures/1.1.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
-    zoom: true
-
   - id: "cat-2"
     src: figures/2.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Madonna col Bambino"
+    credit: Wiligelmo
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/69a7636c-3a3e-4236-b519-30554441d8d5/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/69a7636c-3a3e-4236-b519-30554441d8d5/canvas/a568e7a3-8dd6-4975-8a96-2f0743bdefc9
     zoom: true
 
   - id: "cat-3"
     src: figures/3.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Crocifissione e Deposizione"
+    credit: Pittore veneto
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/69f6c2db-db8f-4c0d-a3da-086996bc1712/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/69f6c2db-db8f-4c0d-a3da-086996bc1712/canvas/7f610289-e51e-4a97-bbb0-2487d4ff2dc2
     zoom: true
 
   - id: "cat-4"
     src: figures/4.jpg
-    caption: "Opera magna in IIIF."
-    credit: Mario Rossi
+    caption: "Madonna col Bambino in trono fra angeli"
+    credit: Francesco di Neri da Volterra
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/6ed70fa4-f186-4bfa-bd4a-1681e27bba9a/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/6ed70fa4-f186-4bfa-bd4a-1681e27bba9a/canvas/11c65085-05cf-42e5-a916-61ee955221cf
     zoom: true
