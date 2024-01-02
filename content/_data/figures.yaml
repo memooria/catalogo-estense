@@ -8,6 +8,12 @@ figure_list:
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/c4668a96-0669-4290-a2e0-b46e0fe6e2a8/canvas/1242a172-db1a-422b-9b08-979bacec1ab5
     zoom: true
 
+  - id: "cat-1.1"
+    src: figures/1.1.jpg
+    caption: "Opera magna in IIIF."
+    credit: Mario Rossi
+    zoom: true
+
   - id: "cat-2"
     src: figures/2.jpg
     caption: "Opera magna in IIIF."
