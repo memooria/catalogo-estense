@@ -4,7 +4,7 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: Galleria-Estense_Modena.jpg
+image: Galleria-Estense_Modena_1.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam commodo magna ac mauris convallis lacinia. Sed vestibulum fermentum elit, nec commodo lectus interdum ac. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ut fringilla urna. Quisque consequat justo id libero consequat, in tristique risus eleifend. Proin sed odio eget lacus suscipit congue. Suspendisse at ligula eu mi fermentum congue. Vivamus dapibus, quam eu placerat dapibus, purus libero eleifend elit, nec dictum turpis metus vitae lectus. Maecenas rutrum ex ac nisi bibendum, ac lacinia nisi sodales. Nulla facilisi. Integer vitae ex justo. Donec pharetra vitae lectus ut feugiat. Nunc sollicitudin augue id justo feugiat vestibulum.
