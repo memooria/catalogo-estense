@@ -30,7 +30,7 @@ figure_list:
 
   - id: "cat-4_1"
     src: figures/4_1.jpg
-    caption: "Retro della tavola della Galleria Estense"
+    caption: "Visione del retro della tavola della Galleria Estense"
     manifestId: 
     canvasId: 
     zoom: true
@@ -72,7 +72,7 @@ figure_list:
 
   - id: "cat-8_1"
     src: figures/8_1.JPG
-    caption: "Retro della tavola della Galleria Estense"
+    caption: "Visione del retro della tavola della Galleria Estense"
     manifestId: 
     canvasId: 
     zoom: true
@@ -86,7 +86,7 @@ figure_list:
 
   - id: "cat-9_1"
     src: figures/9_1.jpg
-    caption: "Retro della tavola della Galleria Estense"
+    caption: "Visione del retro della tavola della Galleria Estense"
     manifestId: 
     canvasId: 
     zoom: true
@@ -135,7 +135,7 @@ figure_list:
 
   - id: "cat-12_6"
     src: figures/12_6.jpg
-    caption: "Visione del retro delle cinque tavole"
+    caption: "Visione del retro delle cinque tavole della Gallerie Estense"
     manifestId:  
     canvasId: 
     zoom: true
@@ -157,6 +157,13 @@ figure_list:
   - id: "cat-15"
     src: figures/15.jpg
     caption: "Giovanni Antonio Bellinzoni da Pesaro, San Giovanni Battista"
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/736577fe-3daa-49b3-9c6e-2e84451204df/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/736577fe-3daa-49b3-9c6e-2e84451204df/canvas/83bf90f8-c81d-4f25-9dfb-0412ce37c82a
+    zoom: true
+
+  - id: "cat-15_2"
+    src: figures/15_2.jpg
+    caption: "Visione del retro della tavola della Galleria Estense"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/736577fe-3daa-49b3-9c6e-2e84451204df/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/736577fe-3daa-49b3-9c6e-2e84451204df/canvas/83bf90f8-c81d-4f25-9dfb-0412ce37c82a
     zoom: true
@@ -215,6 +222,69 @@ figure_list:
     caption: "Michele da Firenze, Compianto su Cristo morto"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/a33e4226-4d84-45f0-9698-e2127f101b0c/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/a33e4226-4d84-45f0-9698-e2127f101b0c/canvas/b5b282b1-b310-4c35-a332-c61bc2cb9d7b
+    zoom: true
+    
+  - id: "cat-23_1"
+    src: figures/23_1.jpg
+    caption: "Pittore ferrarese, Deposizione di Cristo nel sepolcro con santi francescani, Ferrara, Pinacoteca Nazionale"
+    manifestId: 
+    canvasId: 
+    zoom: true
+
+  - id: "cat-23_2"
+    src: figures/23_2.jpg
+    caption: "Cristoforo da Bologna, Deposizione (part.), Ferrara, Pinacoteca Nazionale"
+    manifestId: 
+    canvasId: 
+    zoom: true
+
+  - id: "cat-23_3"
+    src: figures/23_3.tif
+    caption: "Michele da Firenze, dettaglio dell’Altare delle statuine. Modena, Duomo. Foto 831 nel volume Il Duomo di Modena, Modena, Franco Cosimo Panini, 1999"
+    manifestId: 
+    canvasId: 
+    zoom: true
+
+  - id: "cat-23a"
+    src: figures/23a.jpg
+    caption: "Michele da Firenze, Compianto su Cristo morto, dettaglio, fotografia di Paolo Terzi pubblicata nel volume Il Compianto ritrovato, Modena, Franco Cosimo Panini 2010"
+    manifestId: 
+    canvasId: 
+    zoom: true
+
+  - id: "cat-23b"
+    src: figures/23b.jpg
+    caption: "Michele da Firenze, Compianto su Cristo morto, dettaglio, fotografia di Paolo Terzi pubblicata nel volume Il Compianto ritrovato, Modena, Franco Cosimo Panini 2010"
+    manifestId: 
+    canvasId: 
+    zoom: true
+
+  - id: "cat-23c"
+    src: figures/23c.jpg
+    caption: "Michele da Firenze, Compianto su Cristo morto, dettaglio, fotografia di Paolo Terzi pubblicata nel volume Il Compianto ritrovato, Modena, Franco Cosimo Panini 2010"
+    manifestId: 
+    canvasId: 
+    zoom: true
+
+  - id: "cat-23d"
+    src: figures/23d.jpg
+    caption: "Michele da Firenze, Compianto su Cristo morto, dettaglio, fotografia di Paolo Terzi pubblicata nel volume Il Compianto ritrovato, Modena, Franco Cosimo Panini 2010"
+    manifestId: 
+    canvasId: 
+    zoom: true
+
+  - id: "cat-23e"
+    src: figures/23e.jpg
+    caption: "Michele da Firenze, Compianto su Cristo morto, dettaglio, fotografia di Paolo Terzi pubblicata nel volume Il Compianto ritrovato, Modena, Franco Cosimo Panini 2010"
+    manifestId: 
+    canvasId: 
+    zoom: true
+
+  - id: "cat-23f"
+    src: figures/23f.jpg
+    caption: "Michele da Firenze, Compianto su Cristo morto, dettaglio, fotografia di Paolo Terzi pubblicata nel volume Il Compianto ritrovato, Modena, Franco Cosimo Panini 2010"
+    manifestId: 
+    canvasId: 
     zoom: true
 
   - id: "cat-24"
@@ -328,6 +398,62 @@ figure_list:
     caption: "Ercole De' Roberti, Giovan Francesco Maineri (?), Lucrezia, Bruto e Collatino"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/52693a93-67d7-4b52-b665-840502868945/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/52693a93-67d7-4b52-b665-840502868945/canvas/c2a7e67d-3ee1-41c1-a935-3c16ce4593ff
+    zoom: true
+
+  - id: "cat-36_1"
+    src: figures/36_1.jpg
+    caption: "Ercole de’ Roberti, Porzia e Bruto, Fort Worth, Texas, Kimbell Art Museum"
+    manifestId: 
+    canvasId: 
+    zoom: true
+
+  - id: "cat-36_2"
+    src: figures/36_2.jpg
+    caption: "Ercole de’ Roberti, La moglie di Asdrubale, Washington, D.C., National Gallery of Art"
+    manifestId: 
+    canvasId: 
+    zoom: true
+
+  - id: "cat-36_3"
+    src: figures/36_3.jpg
+    caption: "Visione del retro della tavola della Galleria Estense"
+    manifestId: 
+    canvasId: 
+    zoom: true
+
+  - id: "cat-36_4"
+    src: figures/36_4.jpg
+    caption: "Particolare del dipinto della Galleria Estense relativo alla tecnica d’esecuzione"
+    manifestId: 
+    canvasId: 
+    zoom: true
+
+  - id: "cat-36_5"
+    src: figures/36_5.jpg
+    caption: "Particolare del dipinto della Galleria Estense relativo alla tecnica d’esecuzione"
+    manifestId: 
+    canvasId: 
+    zoom: true
+
+  - id: "cat-36_6"
+    src: figures/36_6.jpg
+    caption: "Storie di Lucrezia, xilografia da Giovanni Boccaccio, De mulieribus claris, Ulm, Zainer, 1473"
+    manifestId: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00029099/manifest
+    canvasId: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00029099/canvas/106
+    zoom: true
+
+  - id: "cat-36_7"
+    src: figures/36_7.jpg
+    caption: "Eleonora d’Aragona, xilografia da Giacomo Filippo Foresti, De plurimis claris sceltisque mulieribus, Ferrara, Rossi, 1497"
+    manifestId:
+    canvasId: 
+    zoom: true
+
+  - id: "cat-36_8"
+    src: figures/36_8.jpg
+    caption: "Busto di Eleonora d’Aragona, particolare di: Guido Mazzoni, Compianto su Cristo Morto, Ferrara, Chiesa del Gesù"
+    manifestId:
+    canvasId: 
     zoom: true
 
   - id: "cat-37"
