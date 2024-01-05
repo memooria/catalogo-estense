@@ -18,7 +18,7 @@ figure_list:
     src: figures/3.jpg
     caption: "Pittore veneto, Crocifissione e Deposizione"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/74f0b23b-f6a3-4c5c-aa2e-e0cdeb4ec752/manifest
-    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/69f6c2db-db8f-4c0d-a3da-086996bc1712/canvas/7f610289-e51e-4a97-bbb0-2487d4ff2dc2
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/74f0b23b-f6a3-4c5c-aa2e-e0cdeb4ec752/canvas/2e84f277-10ce-4cce-892f-6ca76c2aa5b6
     zoom: true
 
   - id: "cat-4"
