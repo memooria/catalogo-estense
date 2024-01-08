@@ -259,12 +259,14 @@ object_list:
       - id: "cat-22"
 
   - id: 23
-    artista: Michele da Firenze
-    titolo: Compianto su Cristo morto
-    datazione: prova23
+    artista: Michele di Nicolò di Dino, detto Michele da Firenze (ca. 1385 - 1457)
+    titolo: Compianto sul Cristo morto
+    datazione: ca. 1442-1443
     supporto: Terracotta policroma
-    dimensioni: n.d.
-    collocazione: Galleria Estense, Modena
+    dimensioni: 140 x 55 x 68 cm
+    collocazione: Modena, Galleria Estense, Sala 4
+    inventario: s. n. 
+    iscrizioni e timbri: nessuno
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/815161_Compianto%20su%20Cristo%20morto
     figure:
       - id: "cat-23"
