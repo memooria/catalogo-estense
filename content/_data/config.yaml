@@ -48,7 +48,6 @@ tableOfContents:
   contributorDivider: ' — '
 
 accordion:
-  controls: arrow
   globalControls:
     collapseText: Collapse All
     expandText: Expand All
