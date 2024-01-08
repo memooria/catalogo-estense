@@ -49,3 +49,8 @@ tableOfContents:
 
 accordion:
   controls: arrow
+
+accordion:
+  globalControls:
+    collapseText: Collapse All
+    expandText: Expand All
