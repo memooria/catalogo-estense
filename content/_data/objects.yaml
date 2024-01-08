@@ -44,12 +44,14 @@ object_list:
       - id: "cat-3"
       
   - id: 4
-    artista: Francesco di Neri da Volterra 
-    titolo: Madonna col Bambino in trono fra angeli
-    datazione: ca. 1350 - 1360
-    supporto: Tempera su tavola
-    dimensioni: 176 x 97 cm
-    collocazione: Galleria Estense, Modena
+    artista: Francesco di Neri da Volterra (doc. dal 1339 al 1377)
+    titolo: Madonna con il Bambino in trono, angeli e donatori (nei pennacchi san Giovanni Battista e il profeta Isaia?)
+    datazione: ca. 1355-1360
+    supporto: Tempera e oro su tavola
+    dimensioni: 178 x 96,5 x 3 cm; con cornice 196 x 117,5 x 8,5 cm; superficie dipinta 163,5 x 89,3 cm
+    collocazione: Modena, Galleria Estense, Sala 3
+    inventario: R.C.G.E. 488
+    iscrizioni e timbri: FRANCISHUS NERII D(e) VVLT(er)RI(S) D(e)I GR(ti)A ME PI(n)XIT (nel pavimento in primo piano); AVE MARIA GRATIA PLENA DOM (nel nimbo della Vergine); ECCE AGNUS DEI/ ECCE QUI TOLLI(t) PEC( c )ATA (Gv 1, 29; nel cartiglio di san Giovanni Battista); E[…]TE […]M/ […]NE (D)O(mi)NATO( R )EM T[…] (Is 16, 1; nel cartiglio di Isaia?). Sul retro vi è un sigillo ottocentesco abraso, nonché un’etichetta su cui è vergato a matita rossa il numero 67 (inventario del 1866); il numero 11 è iscritto su un tassello a coda di rondine; vi sono altresì vari timbri della Soprintendenza alle Gallerie modenesi.
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/817783_Madonna%20col%20Bambino%20in%20trono%20fra%20angeli
     figure:
       - id: "cat-4"
@@ -99,12 +101,14 @@ object_list:
       - id: "cat-8"
 
   - id: 9
-    artista: Maestro di Torre di Palme (attribuito a) 
-    titolo: Madonna col Bambino; Cristo nel sepolcro; Annunciazione; Santi
-    datazione: ca. 1370 - 1400
-    supporto: Tempera su tavola
-    dimensioni: 67 x 36 cm
-    collocazione: Galleria Estense, Modena
+    artista: Maestro del polittico di Torre di Palme (attivo nell’ultimo quarto del XIV sec. e agli inizi del XV sec.) 
+    titolo: Madonna dell’umiltà, Cristo in pietà, quattro santi e l’Annunciazione
+    datazione: ca. 1395-1400
+    supporto: Tempera e oro su tavola
+    dimensioni: scomparto centrale 68,5 x 26,5 cm (superficie dipinta 47,2 x 19,8 cm); scomparto sinistro 67 x 13,3 cm (superficie dipinta 47 x 9,7 cm); scomparto destro 57 x 12,9 cm (superficie dipinta 47 x 9,7 cm)
+    collocazione: Modena, Galleria Estense, Sala 3
+    inventario: R.C.G.E. 4182
+    iscrizioni e timbri: INRI (nella tabella della croce posta dietro il Cristo in pietà); “Consegna 1924/ 426 Campori” (in un cartellino incollato nello spessore e nel retro del supporto, nell’anta destra, in basso)
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819314_Madonna%20col%20Bambino;%20Cristo%20nel%20sepolcro;%20Annunciazione;%20Santi
     figure:
       - id: "cat-9"
@@ -132,12 +136,14 @@ object_list:
       - id: "cat-11"
       
   - id: 12
-    artista: Arcangelo di Cola da Camerino
-    titolo: Esequie di san Zenobi; Martirio di sant'Andrea; Deposizione di Cristo; Martirio di san Giovanni Evangelista; Martirio di santa Caterina d'Alessandria
-    datazione: ca. 1420 - 1430 
-    supporto: Tempera su tavola
-    dimensioni: opera senza cornice 41 x 158 x 6 cm; opera con cornice	152	x 40 cm
-    collocazione: Galleria Estense, Modena
+    artista: Arcangelo di Cola da Camerino (doc. dal 1406 al 1429)
+    titolo: Traslazione del corpo di san Zanobi, Martirio di sant’Andrea, Deposizione di Gesù dalla croce, Supplizio di san Giovanni evangelista, Martirio di santa Caterina d’Alessandria
+    datazione: ca. 1421-1425 
+    supporto: Tempera e oro su tavola
+    dimensioni: 24 x 28,7 x 1 cm; 23,5 x 27,5 x 1 cm; 23 x 26,2 x 0,8 cm; 24,3 x 29 x 1 cm; 23 x 29 x 0,5 cm
+    collocazione: Modena, Galleria Estense, Sala 3
+    inventario: R.C.G.E. 4183
+    iscrizioni e timbri: Sul retro alcuni scomparti presentano un timbro della Soprintendenza alle Gallerie di Modena; a tergo del Supplizio di san Giovanni evangelista è incollato un cartellino, di cui sopravvive un frammento illeggibile; varie iscrizioni alfanumeriche recenti indicano la successione dei pannelli. Sul retro della cornice è impresso a timbro il numero 7542 e nello spessore destro vi è un’etichetta correlata all’inventario del 1924, ove è vergato un numero non decifrabile
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819315_Esequie%20di%20san%20Zenobi;%20Martirio%20di%20sant'Andrea;%20Deposizione%20di%20Cristo;%20Martirio%20di%20san%20Giovanni%20Evangelista;%20Martirio%20di%20santa%20Caterina%20d'Alessandria
     figure:
       - id: "cat-12"
@@ -253,12 +259,14 @@ object_list:
       - id: "cat-22"
 
   - id: 23
-    artista: Michele da Firenze
-    titolo: Compianto su Cristo morto
-    datazione: prova23
+    artista: Michele di Nicolò di Dino, detto Michele da Firenze (ca. 1385 - 1457)
+    titolo: Compianto sul Cristo morto
+    datazione: ca. 1442-1443
     supporto: Terracotta policroma
-    dimensioni: n.d.
-    collocazione: Galleria Estense, Modena
+    dimensioni: 140 x 55 x 68 cm
+    collocazione: Modena, Galleria Estense, Sala 4
+    inventario: s. n. 
+    iscrizioni e timbri: nessuno
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/815161_Compianto%20su%20Cristo%20morto
     figure:
       - id: "cat-23"
@@ -405,6 +413,8 @@ object_list:
     supporto: Olio e tempera (?) su tavola
     dimensioni: 48,9 x 35,5 x 3 cm
     collocazione: Modena, Galleria Estense, Sala 4
+    inventario: R.C.G.E. 50
+    iscrizioni e timbri: Sigillo in ceralacca con compasso, pennello e stecca o scalpello da scultore e la scritta attorno “Accademia di Belle Arti”, apposto nel 1797 (Venturi 1882, pp. 349 fig. 91, 395, 401). Alla stessa epoca appartengono un altro sigillo non identificato raffigurante compasso, squadra, quella che sembra essere una campana e un altro oggetto e il cartellino frammentario che in origine portava il numero d’inventario e la provenienza dell’opera, in cui ora è leggibile solo la scritta “dell’Amm. e ”. Cartellino inventariale del “Palazzo Reale di Modena / Inventario Generale / N.° 547”. Diversi altri numeri 35, 68, 181 e, a timbro, l’attuale numero di R.C.G.E. 50.
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818629_Lucrezia,%20Bruto%20e%20Collatino
     figure:
       - id: "cat-36"
