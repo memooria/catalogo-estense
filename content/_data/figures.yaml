@@ -78,7 +78,7 @@ figure_list:
     zoom: true
 
   - id: "cat-8"
-    src: figures/8_1.JPG
+    src: figures/8.jpg
     caption: "Simone dei Crocifissi, Madonna col Bambino in trono fra angeli"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/0e0b6ea7-eaa1-417d-a85d-dadc0d7ba427/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/0e0b6ea7-eaa1-417d-a85d-dadc0d7ba427/canvas/360ac7d2-7521-4af9-8139-07e52cb9307e
