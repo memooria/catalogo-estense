@@ -7,7 +7,6 @@ object_display_order:
   - collocazione
   - inventario
   - iscrizioni e timbri
-  - scheda curatoriale a cura di
   
 object_list:
 
@@ -99,7 +98,6 @@ object_list:
     collocazione: Modena, Galleria Estense, Sala 3
     inventario: R.C.G.E. 491
     iscrizioni e timbri: [S]imon [fe]cit h[o]c opus (lungo il gradino della pedana, in primo piano).
-    scheda curatoriale a cura di: Mauro Minardi
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818329_Madonna%20col%20Bambino%20in%20trono%20fra%20angeli
     figure:
       - id: "cat-8"
