@@ -79,7 +79,7 @@ figure_list:
 
   - id: "cat-8"
     src: figures/8.jpg
-    caption: "Simone dei Crocifissi, Madonna col Bambino in trono fra angeli"
+    caption: "Simone di Filippo, detto “dei Crocifissi”, Madonna con il Bambino in trono e angeli"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/0e0b6ea7-eaa1-417d-a85d-dadc0d7ba427/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/0e0b6ea7-eaa1-417d-a85d-dadc0d7ba427/canvas/360ac7d2-7521-4af9-8139-07e52cb9307e
     zoom: true
@@ -93,7 +93,7 @@ figure_list:
 
   - id: "cat-9"
     src: figures/9.jpg
-    caption: "Maestro di Torre in Palme, Madonna col Bambino e santi, Cristo nel sepolcro, Annunciazione"
+    caption: "Maestro del polittico di Torre di Palme, Madonna dell’umiltà, Cristo in pietà, quattro santi e l’Annunciazione"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/cf5de7e9-c864-4c4e-8ee1-b2c40fe7c0b6/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/cf5de7e9-c864-4c4e-8ee1-b2c40fe7c0b6/canvas/11d12114-2eaa-49f7-85c9-ee7c6173bc66
     zoom: true
