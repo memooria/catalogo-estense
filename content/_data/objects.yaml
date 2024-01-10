@@ -90,12 +90,14 @@ object_list:
       - id: "cat-7"
   
   - id: 8
-    artista: Simone di Filippo Benvenuti detto Simone dei Crocifissi 
-    titolo: Madonna col Bambino in trono fra angeli
-    datazione: ca. 1390 - 1399
-    supporto: Tempera su tavola
-    dimensioni: 96 x 59 cm
-    collocazione: Galleria Estense, Modena
+    artista: Simone di Filippo, detto “dei Crocifissi” (doc. dal 1354 - morto nel 1399) 
+    titolo: Madonna con il Bambino in trono e angeli
+    datazione: ca. 1380
+    supporto: Tempera e oro su tavola
+    dimensioni: 96 x 58,6 x 1,8 cm; superficie dipinta 90,5 x 53,4 cm
+    collocazione: Modena, Galleria Estense, Sala 3
+    inventario: R.C.G.E. 491
+    iscrizioni e timbri: (S)imon (fe)cit h(o)c opus (lungo il gradino della pedana, in primo piano).
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/818329_Madonna%20col%20Bambino%20in%20trono%20fra%20angeli
     figure:
       - id: "cat-8"
