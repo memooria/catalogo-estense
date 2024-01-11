@@ -499,10 +499,35 @@ document.createElement('template')
             </div>
             <div class="quire-navbar-controls__center">
               <ul class="quire-navbar-page-controls" role="navigation" aria-label="quick">
+                <li class="quire-navbar-page-controls__item quire-previous-page">
+                  <a href="/" rel="previous">
+                    <span class="visually-hidden">Previous Page: </span>
+                    <svg class="left-icon" data-outputs-exclude="epub,pdf">
+                      <switch>
+                        <use xlink:href="#left-arrow-icon"></use>
+                      </switch>
+                    </svg>
+                    Cover
+                  </a>
+                </li>
+
+                <li class="quire-navbar-page-controls__item quire-home-page">
+                  <a href="/" rel="home">
+                    <span class="visually-hidden">Home Page: </span>
+                    <span class="quire-navbar-button home-button">
+                      <svg data-outputs-exclude="epub,pdf">
+                        <switch>
+                          <use xlink:href="#home-icon"></use>
+                        </switch>
+                      </svg>
+                    </span>
+                  </a>
+                </li>
+
                 <li class="quire-navbar-page-controls__item quire-next-page">
-                  <a href="/catalogue/" rel="next">
+                  <a href="/essay/" rel="next">
                     <span class="visually-hidden">Next Page: </span>
-                    Catalogo
+                    Catalogo Estense Digitale
                     <svg data-outputs-exclude="epub,pdf">
                       <switch>
                         <use xlink:href="#right-arrow-icon"></use>
@@ -524,8 +549,8 @@ document.createElement('template')
             </div>
           </nav>
           <div class="quire-progress-bar">
-            <div style="width: 1.8181818181818181%">
-              <span>1/55</span>
+            <div style="width: 3.6363636363636362%">
+              <span>2/55</span>
             </div>
           </div>
         </div>
@@ -560,7 +585,7 @@ document.createElement('template')
                             </switch>
                           </svg> </span></a>
                     </li>
-                    <li class="level-0 section-item frontmatter-page">
+                    <li class="level-0 section-item">
                       <a href="/catalogue/">Catalogo</a>
 
                       <ol class="table-of-contents-list">
@@ -967,8 +992,19 @@ document.createElement('template')
               </div>
               <div class="quire-contents-buttons" data-outputs-exclude="epub,pdf">
                 <ul>
+                  <li class="quire-nav-button prev">
+                    <a href="/"><svg data-outputs-exclude="epub,pdf">
+                        <switch>
+                          <use xlink:href="#left-arrow-icon"></use>
+                        </switch>
+                      </svg>
+                      <span class="visually-hidden" data-outputs-exclude="epub,pdf">Go back a page</span>
+                      &nbsp;<span class="nav-title">Back</span></a>
+                    <span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
+                  </li>
+
                   <li class="quire-nav-button next">
-                    <a href="/catalogue/"><span class="nav-title">Next</span>&nbsp;<svg data-outputs-exclude="epub,pdf">
+                    <a href="/essay/"><span class="nav-title">Next</span>&nbsp;<svg data-outputs-exclude="epub,pdf">
                         <switch>
                           <use xlink:href="#right-arrow-icon"></use>
                         </switch>
