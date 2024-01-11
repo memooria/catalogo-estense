@@ -36,8 +36,8 @@ localization:
 menuType: full # full | brief
 
 navigation:
-  nextButtonText: Next
-  prevButtonText: Back
+  nextButtonText: Avanti
+  prevButtonText: Indietro
 
 pageTitle:
   labelDivider: '. '
@@ -48,6 +48,4 @@ tableOfContents:
   contributorDivider: ' — '
 
 accordion:
-  globalControls:
-    collapseText: Collapse All
-    expandText: Expand All
+  controls: arrow
