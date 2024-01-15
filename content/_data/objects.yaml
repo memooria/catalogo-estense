@@ -174,19 +174,20 @@ object_list:
     titolo: La novella di Griselda
     datazione: ca. 1440
     supporto: Tempera su tavola
-    dimensioni: opera senza cornice	38 x	150,5	cm; opera con cornice 54 x 165 x 11 cm
+    dimensioni: opera senza cornice	38 x 150,5	cm; opera con cornice 54 x 165 x 11 cm
     collocazione: Galleria Estense, Modena
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820179_La%20novella%20di%20Griselda
     figure:
       - id: "cat-14"
       
   - id: 15
-    artista: Giovanni Antonio Bellinzoni da Pesaro
+    artista: Giovanni Antonio Bellinzoni da Pesaro (doc. dal 1437 - morto nel 1475)
     titolo: San Giovanni Battista
-    datazione: ca. 1460 - 1470
-    supporto: Tempera su tavola
-    dimensioni: opera senza cornice	169 x	76 cm;	opera con cornice	168	x	75 x 8 cm			
-    collocazione: Galleria Estense, Modena
+    datazione: ca. 1467-1472
+    supporto: Tempera e oro su tavola
+    dimensioni: 170 x 75 x 2 cm; superficie dipinta 159,5 x 66,2 cm			
+    collocazione: Modena, Galleria Estense, Sala 3
+    inventario: R.C.G.E. 2815
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819721_San%20Giovanni%20Battista
     figure:
       - id: "cat-15"
