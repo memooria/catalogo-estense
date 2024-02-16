@@ -31,7 +31,7 @@ jobs:
       - name: GH Pages customizations
         run: |
           rm -rf docs || echo "not removing docs"
-          mv _site docs || mkdir -p docs
+          mv _site docs || mkdir -p docs/_assets
           touch docs/.nojekyll
           touch docs/_assets/.nojekyll
           test -d docs/static || mkdir docs/static
