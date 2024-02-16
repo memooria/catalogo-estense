@@ -59,6 +59,9 @@ jobs:
       - name: Quire build
         run: quire build
 
+      - name: Quire PDF build
+        run: quire pdf
+
       - name: GH Pages customizations
         run: |
           rm -rf docs || echo "not removing docs"
