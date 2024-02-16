@@ -62,7 +62,7 @@ jobs:
       - name: Quire PDF build
         run: |
           quire pdf
-          sudo apt-get install pandoc
+          sudo apt-get install pandoc texlive-latex-base texlive-fonts-recommended texlive-fonts-extra
           mkdir -p _site/downloads
           pandoc _site/pdf.html -t latex -o _site/downloads/output.pdf
 
