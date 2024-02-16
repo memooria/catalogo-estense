@@ -36,7 +36,7 @@ figure_list:
     zoom: true
 
   - id: "cat-4_2"
-    src: figures/4_2.tif
+    src: figures/4_2.jpg
     caption: "Fig. 2, Francesco di Neri da Volterra, Madonna con il Bambino in trono, angeli e donatori, Modena, Galleria Estense. Dettaglio della firma dell’artista."
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/a7c670e2-dbaa-40b5-92ea-2e4abc3bb3e5/manifest 
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/a7c670e2-dbaa-40b5-92ea-2e4abc3bb3e5/canvas/3803a2a5-2651-4e8c-ae16-74bfb92500db
@@ -169,7 +169,7 @@ figure_list:
     zoom: true
 
   - id: "cat-12_1"
-    src: figures/12_1.tif
+    src: figures/12_1.jpg
     caption: "Fig. 1, Arcangelo di Cola da Camerino, Madonna con il Bambino in trono e angeli, New Haven, Yale University Art Gallery."
     manifestId: https://manifests.collections.yale.edu/yuag/obj/6908 
     canvasId: https://manifests.collections.yale.edu/canvas/yuag/604c308e-14d0-487c-8842-df2a8c45fb1b
@@ -330,7 +330,7 @@ figure_list:
     zoom: true
 
   - id: "cat-23_3"
-    src: figures/23_3.tif
+    src: figures/23_3.jpg
     caption: "Fig. 3, Michele da Firenze, dettaglio dell’Altare delle statuine. Modena, Duomo. Foto 831 nel volume Il Duomo di Modena, Modena, Franco Cosimo Panini, 1999"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/96185f17-5b47-47e7-a764-557595242282/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/96185f17-5b47-47e7-a764-557595242282/canvas/c73a56e5-60cb-4306-8e85-01a9ecff9ae6
