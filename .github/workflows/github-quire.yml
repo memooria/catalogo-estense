@@ -52,6 +52,7 @@ jobs:
       - name: Publication URL customization
         run: |
           sed -i 's@^url:.*$@url: '"${PUBLIC_URL}"'@' content/_data/publication.yaml
+          grep 'url:' content/_data/publication.yaml
         env:
           PUBLIC_URL: ${{ vars.PUBLIC_URL }}
 
