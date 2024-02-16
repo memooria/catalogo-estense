@@ -60,7 +60,12 @@ jobs:
         run: quire build
 
       - name: Quire PDF build
-        run: quire pdf
+        run: |
+          quire pdf
+          sudo apt-get install pandoc
+          mkdir -p _site/downloads
+          pandoc _site/pdf.html -t latex -o _site/downloads/output.pdf
+
 
       - name: GH Pages customizations
         run: |
