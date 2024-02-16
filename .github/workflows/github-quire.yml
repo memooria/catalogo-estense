@@ -31,7 +31,7 @@ jobs:
       - name: GH Pages customizations
         run: |
           rm -rf docs || echo "not removing docs"
-          mv _site docs
+          mv _site docs || echo "sites not found maybe the project is fresh"
           touch docs/.nojekyll
           touch docs/_assets/.nojekyll
           test -d docs/static || mkdir docs/static
