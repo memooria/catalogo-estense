@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2024-02-16T15:48:48.079027Z" version="8.13.3">
+  <properties>
+    <property>
+      <name>width</name>
+      <value type="gint">878</value>
+    </property>
+    <property>
+      <name>height</name>
+      <value type="gint">1920</value>
+    </property>
+    <property>
+      <name>bands</name>
+      <value type="gint">3</value>
+    </property>
+    <property>
+      <name>xoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>yoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>xres</name>
+      <value type="gdouble">2.8346456692913389</value>
+    </property>
+    <property>
+      <name>yres</name>
+      <value type="gdouble">2.8346456692913389</value>
+    </property>
+    <property>
+      <name>vips-loader</name>
+      <value type="VipsRefString">jpegload</value>
+    </property>
+    <property>
+      <name>jpeg-multiscan</name>
+      <value type="gint">1</value>
+    </property>
+    <property>
+      <name>interlaced</name>
+      <value type="gint">1</value>
+    </property>
+    <property>
+      <name>jpeg-chroma-subsample</name>
+      <value type="VipsRefString">4:2:0</value>
+    </property>
+    <property>
+      <name>exif-data</name>
+      <value type="VipsBlob">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</value>
+    </property>
+    <property>
+      <name>resolution-unit</name>
+      <value type="VipsRefString">in</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Make</name>
+      <value type="VipsRefString">Apple (Apple, ASCII, 6 components, 6 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Model</name>
+      <value type="VipsRefString">iPhone 14 Pro (iPhone 14 Pro, ASCII, 14 components, 14 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Orientation</name>
+      <value type="VipsRefString">1 (Internal error (unknown value 1), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-XResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-YResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-ResolutionUnit</name>
+      <value type="VipsRefString">2 (Internal error (unknown value 2), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Software</name>
+      <value type="VipsRefString">16.0 (16.0, ASCII, 5 components, 5 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-DateTime</name>
+      <value type="VipsRefString">2023:01:24 11:48:26 (2023:01:24 11:48:26, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-YCbCrPositioning</name>
+      <value type="VipsRefString">1 (Internal error (unknown value 1), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureTime</name>
+      <value type="VipsRefString">1/48 (1/48 sec., Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FNumber</name>
+      <value type="VipsRefString">89/50 (f/1.8, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureProgram</name>
+      <value type="VipsRefString">2 (Internal error (unknown value 2), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ISOSpeedRatings</name>
+      <value type="VipsRefString">400 (400, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExifVersion</name>
+      <value type="VipsRefString">Exif Version 2.32 (Exif Version 2.32, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-DateTimeOriginal</name>
+      <value type="VipsRefString">2023:01:24 11:48:26 (2023:01:24 11:48:26, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-DateTimeDigitized</name>
+      <value type="VipsRefString">2023:01:24 11:48:26 (2023:01:24 11:48:26, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-OffsetTime</name>
+      <value type="VipsRefString">+01:00 (+01:00, ASCII, 7 components, 7 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-OffsetTimeOriginal</name>
+      <value type="VipsRefString">+01:00 (+01:00, ASCII, 7 components, 7 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-OffsetTimeDigitized</name>
+      <value type="VipsRefString">+01:00 (+01:00, ASCII, 7 components, 7 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ComponentsConfiguration</name>
+      <value type="VipsRefString">Y Cb Cr - (Y Cb Cr -, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ShutterSpeedValue</name>
+      <value type="VipsRefString">77491/13858 (5.59 EV (1/48 sec.), SRational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ApertureValue</name>
+      <value type="VipsRefString">163775/98437 (1.66 EV (f/1.8), Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-BrightnessValue</name>
+      <value type="VipsRefString">39080/35433 (1.10 EV (7.36 cd/m^2), SRational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureBiasValue</name>
+      <value type="VipsRefString">38479/114729 (0.34 EV, SRational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-MeteringMode</name>
+      <value type="VipsRefString">5 (Internal error (unknown value 5), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-Flash</name>
+      <value type="VipsRefString">16 (Internal error (unknown value 16), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FocalLength</name>
+      <value type="VipsRefString">343/50 (6.9 mm, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SubjectArea</name>
+      <value type="VipsRefString">2010 1507 2322 1325 (Within rectangle (width 2322, height 1325) around (x,y) = (2010,1507), Short, 4 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-MakerNote</name>
+      <value type="VipsRefString">1424 bytes undefined data (1424 bytes undefined data, Undefined, 1424 components, 1424 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SubSecTimeOriginal</name>
+      <value type="VipsRefString">868 (868, ASCII, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SubSecTimeDigitized</name>
+      <value type="VipsRefString">868 (868, ASCII, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FlashpixVersion</name>
+      <value type="VipsRefString">FlashPix Version 1.0 (FlashPix Version 1.0, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ColorSpace</name>
+      <value type="VipsRefString">65535 (Internal error (unknown value 65535), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-PixelXDimension</name>
+      <value type="VipsRefString">878 (878, Long, 1 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-PixelYDimension</name>
+      <value type="VipsRefString">1920 (1920, Long, 1 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SensingMethod</name>
+      <value type="VipsRefString">2 (Internal error (unknown value 2), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SceneType</name>
+      <value type="VipsRefString">Directly photographed (Directly photographed, Undefined, 1 components, 1 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureMode</name>
+      <value type="VipsRefString">0 (Internal error (unknown value 0), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-WhiteBalance</name>
+      <value type="VipsRefString">0 (Internal error (unknown value 0), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-DigitalZoomRatio</name>
+      <value type="VipsRefString">189/172 (1.099, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FocalLengthIn35mmFilm</name>
+      <value type="VipsRefString">27 (27, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SceneCaptureType</name>
+      <value type="VipsRefString">0 (Internal error (unknown value 0), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-LensSpecification</name>
+      <value type="VipsRefString">1551800/699009 9/1 1244236/699009 14/5 (2.220000,  9, 1.780000, 2.8, Rational, 4 components, 32 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-LensMake</name>
+      <value type="VipsRefString">Apple (Apple, ASCII, 6 components, 6 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-LensModel</name>
+      <value type="VipsRefString">iPhone 14 Pro back triple camera 6.86mm f/1.78 (iPhone 14 Pro back triple camera 6.86mm f/1.78, ASCII, 47 components, 47 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-CompositeImage</name>
+      <value type="VipsRefString">2 (2, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSLatitudeRef</name>
+      <value type="VipsRefString">N (N, ASCII, 2 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSLatitude</name>
+      <value type="VipsRefString">44/1 38/1 5392/100 (44, 38, 53.92, Rational, 3 components, 24 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSLongitudeRef</name>
+      <value type="VipsRefString">E (E, ASCII, 2 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSLongitude</name>
+      <value type="VipsRefString">10/1 55/1 1487/100 (10, 55, 14.87, Rational, 3 components, 24 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSAltitudeRef</name>
+      <value type="VipsRefString">Sea level (Sea level, Byte, 1 components, 1 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSAltitude</name>
+      <value type="VipsRefString">192312/5413 (35.5278, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSSpeedRef</name>
+      <value type="VipsRefString">K (K, ASCII, 2 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSSpeed</name>
+      <value type="VipsRefString">0/1 ( 0, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSImgDirectionRef</name>
+      <value type="VipsRefString">T (T, ASCII, 2 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSImgDirection</name>
+      <value type="VipsRefString">228804/1103 (207.438, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSDestBearingRef</name>
+      <value type="VipsRefString">T (T, ASCII, 2 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSDestBearing</name>
+      <value type="VipsRefString">228804/1103 (207.438, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSHPositioningError</name>
+      <value type="VipsRefString">96253/3304 (29.1323, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>orientation</name>
+      <value type="gint">1</value>
+    </property>
+  </properties>
+</image>
