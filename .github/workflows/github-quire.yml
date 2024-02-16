@@ -49,6 +49,12 @@ jobs:
           git config --global user.name "Github Action"
           git config --global user.email "gihubaction@users.noreply.github.com"
 
+      - name: Publication URL customization
+        run: |
+          sed -i 's@^url:.*$@url: '"${PUBLIC_URL}"'@' content/_data/publication.yaml
+        env:
+          PUBLIC_URL: ${{ vars.PUBLIC_URL }}
+
       - name: Quire build
         run: quire build
 
