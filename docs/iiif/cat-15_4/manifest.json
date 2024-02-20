@@ -1,1 +1,52 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"http://localhost:8080//iiif/cat-15_4/manifest.json","type":"Manifest","label":{"en":[null]},"items":[{"id":"http://localhost:8080//iiif/cat-15_4/canvas","type":"Canvas","height":4006,"width":1832,"items":[{"id":"http://localhost:8080//iiif/cat-15_4/canvas/annotation-page","type":"AnnotationPage","items":[{"id":"http://localhost:8080//iiif/cat-15_4/canvas/15_2","motivation":"painting","target":"http://localhost:8080//iiif/cat-15_4/canvas","type":"Annotation","body":{"id":"http://localhost:8080/http:/localhost:8080/iiif/cat-15_4/15_2/tiles/info.json","type":"Image","format":"image/jpeg","height":4006,"width":1832,"label":{"en":["15 2"]},"service":[{"@context":"http://iiif.io/api/image/2/context.json","@id":"http://localhost:8080/iiif/cat-15_4/15_2/tiles/info.json","profile":"level0","protocol":"http://iiif.io/api/image"}]}}]}]}]}
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://quirege.dev-box.it/iiif/cat-15_4/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      null
+    ]
+  },
+  "items": [
+    {
+      "id": "https://quirege.dev-box.it/iiif/cat-15_4/canvas",
+      "type": "Canvas",
+      "height": 1920,
+      "width": 878,
+      "items": [
+        {
+          "id": "https://quirege.dev-box.it/iiif/cat-15_4/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://quirege.dev-box.it/iiif/cat-15_4/canvas/15_2",
+              "motivation": "painting",
+              "target": "https://quirege.dev-box.it/iiif/cat-15_4/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "https://quirege.dev-box.it/iiif/cat-15_4/15_2/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1920,
+                "width": 878,
+                "label": {
+                  "en": [
+                    "15 2"
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://quirege.dev-box.it/iiif/cat-15_4/15_2/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,16 @@
 {
+  "_assets/fonts/Bebas_Neue/BebasNeue-Regular.ttf": {
+    "file": "_assets/BebasNeue-Regular.ttf",
+    "src": "_assets/fonts/Bebas_Neue/BebasNeue-Regular.ttf"
+  },
+  "_assets/fonts/Fira_Sans/FiraSans-Regular.ttf": {
+    "file": "_assets/FiraSans-Regular.ttf",
+    "src": "_assets/fonts/Fira_Sans/FiraSans-Regular.ttf"
+  },
+  "_assets/fonts/Fira_Sans/FiraSans-SemiBold.ttf": {
+    "file": "_assets/FiraSans-SemiBold.ttf",
+    "src": "_assets/fonts/Fira_Sans/FiraSans-SemiBold.ttf"
+  },
   "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bold.eot": {
     "file": "_assets/ibmplexsanscondensed-bold.eot",
     "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bold.eot"
@@ -143,17 +155,9 @@
     "file": "_assets/notoserif-regular.woff2",
     "src": "_assets/fonts/noto-serif/notoserif-regular.woff2"
   },
-  "_assets/images/Galleria-Estense_Modena_1.jpg": {
-    "file": "_assets/Galleria-Estense_Modena_1.jpg",
-    "src": "_assets/images/Galleria-Estense_Modena_1.jpg"
-  },
-  "_assets/images/contributors/Marcello Toffanello.jpg": {
-    "file": "_assets/Marcello Toffanello.jpg",
-    "src": "_assets/images/contributors/Marcello Toffanello.jpg"
-  },
-  "_assets/images/contributors/martinabagnoli.jpg": {
-    "file": "_assets/martinabagnoli.jpg",
-    "src": "_assets/images/contributors/martinabagnoli.jpg"
+  "_assets/images/Galleria-Estense_Modena.jpg": {
+    "file": "_assets/Galleria-Estense_Modena.jpg",
+    "src": "_assets/images/Galleria-Estense_Modena.jpg"
   },
   "_assets/images/figures/1.jpg": {
     "file": "_assets/1.jpg",
@@ -343,7 +347,7 @@
     "file": "_assets/logo-gallerie-estensi.jpg",
     "src": "_assets/images/logo-gallerie-estensi.jpg"
   },
-  "_index-1be1e88e.js": {
+  "_index-d2a4a394.js": {
     "assets": [
       "_assets/ibmplexsanscondensed-regular.eot",
       "_assets/ibmplexsanscondensed-regular.woff2",
@@ -380,15 +384,15 @@
       "_assets/notosans-bold.woff",
       "_assets/notosans-bolditalic.eot",
       "_assets/notosans-bolditalic.woff2",
-      "_assets/notosans-bolditalic.woff"
+      "_assets/notosans-bolditalic.woff",
+      "_assets/FiraSans-Regular.ttf",
+      "_assets/FiraSans-SemiBold.ttf",
+      "_assets/BebasNeue-Regular.ttf"
     ],
     "css": [
       "_assets/index.css"
     ],
-    "file": "_assets/index-1be1e88e.js"
-  },
-  "_index-acd4d191.js": {
-    "file": "_assets/index-acd4d191.js"
+    "file": "_assets/index-d2a4a394.js"
   },
   "index.css": {
     "file": "_assets/index.css",
