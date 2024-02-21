@@ -232,7 +232,7 @@ figure_list:
     zoom: true
 
   - id: "cat-15_1"
-    src: 
+    src: figures/15_1.jpg 
     caption: "Fig. 1, Giovanni Antonio Bellinzoni da Pesaro, *San Donnino* (1472). Già Pesaro, Banca Popolare dell’Adriatico."
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/62038115-bbde-4db0-94ab-30632def78a9/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/62038115-bbde-4db0-94ab-30632def78a9/canvas/af1a76d5-cb09-4232-b488-9908c07b96b2
