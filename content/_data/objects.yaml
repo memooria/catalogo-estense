@@ -471,7 +471,8 @@ object_list:
     supporto: Olio su tavola
     dimensioni: n.d.
     collocazione: Galleria Estense, Modena
-    figure:
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820273_Ecce%20Homo
+    figure: 
       - id: "cat-39"
 
   - id: 40
