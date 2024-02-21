@@ -191,6 +191,7 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819721_San%20Giovanni%20Battista
     figure:
       - id: "cat-15"
+      - id: "cat-15_1"
       - id: "cat-15_2"
       
   - id: 16
@@ -471,7 +472,8 @@ object_list:
     supporto: Olio su tavola
     dimensioni: n.d.
     collocazione: Galleria Estense, Modena
-    figure:
+    link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/820273_Ecce%20Homo
+    figure: 
       - id: "cat-39"
 
   - id: 40
