@@ -191,6 +191,7 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819721_San%20Giovanni%20Battista
     figure:
       - id: "cat-15"
+      - id: "cat-15_1"
       - id: "cat-15_2"
       
   - id: 16
