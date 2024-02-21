@@ -234,8 +234,8 @@ figure_list:
   - id: "cat-15_1"
     src: 
     caption: "Fig. 1, Giovanni Antonio Bellinzoni da Pesaro, *San Donnino* (1472). Già Pesaro, Banca Popolare dell’Adriatico."
-    manifestId: 
-    canvasId: 
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/62038115-bbde-4db0-94ab-30632def78a9/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/62038115-bbde-4db0-94ab-30632def78a9/canvas/af1a76d5-cb09-4232-b488-9908c07b96b2
     zoom: true
 
   - id: "cat-15_2"
@@ -283,8 +283,8 @@ figure_list:
   - id: "cat-19"
     src: figures/19.jpg
     caption: "Sandro Botticelli (scuola di), Madonna col Bambino"
-    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/f7adacb1-5aaf-4abe-a3c1-8f2b61265138/manifest
-    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/f7adacb1-5aaf-4abe-a3c1-8f2b61265138/canvas/9bfc6738-6225-489e-aa8b-e0536b44a510
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/88c52377-cf3b-479e-a85b-8811dba35d46/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/88c52377-cf3b-479e-a85b-8811dba35d46/canvas/e59bf0ca-10f2-4d26-a45e-a1dcee3f7f38
     zoom: true
 
   - id: "cat-20"
@@ -550,8 +550,8 @@ figure_list:
   - id: "cat-37"
     src: figures/37.jpg
     caption: "Giovan Francesco Maineri (attribuito a), Trittico con storie della Passione"
-    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/cb35effe-2bce-4b25-9c42-cad1e620a6cf/manifest
-    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/cb35effe-2bce-4b25-9c42-cad1e620a6cf/canvas/9343a5ba-811b-46e3-ab44-d5961a1b68e4
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/fe360787-39ed-400b-8e32-e80846d0c58b/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/fe360787-39ed-400b-8e32-e80846d0c58b/canvas/5774ee86-bac2-4525-85ca-1f7866ffffb5
     zoom: true
 
   - id: "cat-38"
@@ -564,7 +564,7 @@ figure_list:
   - id: "cat-39"
     src: figures/39.jpg
     caption: "Giovan Francesco Maineri, Ecce Homo"
-    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/fe1ce26e-5bce-4c9d-bd8f-2ec8d082b9c6/manifest
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/d1395b90-bada-47bb-8574-337c7f574890/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/d1395b90-bada-47bb-8574-337c7f574890/canvas/b850de7d-217a-4b89-9208-4bc8d98bdec6
     zoom: true
 
