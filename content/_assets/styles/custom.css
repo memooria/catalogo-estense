@@ -1,17 +1,24 @@
 
-h1,h2 {
-    font-size: 2.5rem!important;
+h1, h2 {
+    font-size: 2.5rem !important;
 }
+
 h4 {
-    font-size: 1.5rem!important;
+    font-size: 1.5rem !important;
 }
 
 #logo-container {
     width: 7rem;
 }
+
 .cb-d-flex {
     display: flex;
     align-items: center;
+}
+
+.quire-contents-list.grid ol li .card.image .card-content {
+    color: black;
+    font-weight: 400;
 }
 
 @media only screen and (max-width: 800px) {
