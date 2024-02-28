@@ -166,7 +166,7 @@ $assets-dir: "/_assets/" !default;
 // Fira_Sans Regular Italic
 @font-face {
   font-family: "Fira Sans";
-  src: font("Fira_Sans/FiraSans-Regular.ttf");
+  src: font("Fira_Sans/FiraSans-Italic.ttf");
   font-weight: 400;
   font-style: italic;
 }
@@ -181,7 +181,7 @@ $assets-dir: "/_assets/" !default;
 // Fira_Sans Bold Italic
 @font-face {
   font-family: "Fira Sans";
-  src: font("Fira_Sans/FiraSans-SemiBold.ttf");
+  src: font("Fira_Sans/FiraSans-SemiBoldItalic.ttf");
   font-weight: 700;
   font-style: italic;
 }
