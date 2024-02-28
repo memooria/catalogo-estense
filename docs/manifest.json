@@ -3,6 +3,10 @@
     "file": "_assets/BebasNeue-Regular.ttf",
     "src": "_assets/fonts/Bebas_Neue/BebasNeue-Regular.ttf"
   },
+  "_assets/fonts/Fira_Sans/FiraSans-Italic.ttf": {
+    "file": "_assets/FiraSans-Italic.ttf",
+    "src": "_assets/fonts/Fira_Sans/FiraSans-Italic.ttf"
+  },
   "_assets/fonts/Fira_Sans/FiraSans-Regular.ttf": {
     "file": "_assets/FiraSans-Regular.ttf",
     "src": "_assets/fonts/Fira_Sans/FiraSans-Regular.ttf"
@@ -10,6 +14,10 @@
   "_assets/fonts/Fira_Sans/FiraSans-SemiBold.ttf": {
     "file": "_assets/FiraSans-SemiBold.ttf",
     "src": "_assets/fonts/Fira_Sans/FiraSans-SemiBold.ttf"
+  },
+  "_assets/fonts/Fira_Sans/FiraSans-SemiBoldItalic.ttf": {
+    "file": "_assets/FiraSans-SemiBoldItalic.ttf",
+    "src": "_assets/fonts/Fira_Sans/FiraSans-SemiBoldItalic.ttf"
   },
   "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bold.eot": {
     "file": "_assets/ibmplexsanscondensed-bold.eot",
@@ -394,7 +402,9 @@
       "_assets/notosans-bolditalic.woff2",
       "_assets/notosans-bolditalic.woff",
       "_assets/FiraSans-Regular.ttf",
+      "_assets/FiraSans-Italic.ttf",
       "_assets/FiraSans-SemiBold.ttf",
+      "_assets/FiraSans-SemiBoldItalic.ttf",
       "_assets/BebasNeue-Regular.ttf"
     ],
     "css": [
