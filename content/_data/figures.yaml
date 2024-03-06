@@ -30,7 +30,7 @@ figure_list:
 
   - id: "cat-4_1"
     src: figures/4_1.jpg
-    caption: "Fig.1, Francesco di Neri da Volterra, Madonna con il Bambino in trono, angeli e donatori, Modena, Galleria Estense. Immagine del retro della tavola."
+    caption: "Fig. 1, Francesco di Neri da Volterra, Madonna con il Bambino in trono, angeli e donatori, Modena, Galleria Estense. Immagine del retro della tavola."
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/5a14d621-acca-4aaf-83cb-ed74776826c8/manifest 
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/5a14d621-acca-4aaf-83cb-ed74776826c8/canvas/3f2c09e2-033c-4339-a768-25c7ef52d8cd 
     zoom: true
@@ -44,14 +44,14 @@ figure_list:
 
   - id: "cat-4_3"
     src: 
-    caption: "Fig.3, Francesco di Neri da Volterra, San Giovanni evangelista, Venezia, Galleria di Palazzo Cini."
+    caption: "Fig. 3, Francesco di Neri da Volterra, San Giovanni evangelista, Venezia, Galleria di Palazzo Cini."
     manifestId:  
     canvasId: 
     zoom: true
 
   - id: "cat-4_4"
     src: 
-    caption: "Fig.4, Cecco di Pietro, Madonna con il Bambino in trono e santi (polittico di Agnano), Pisa, Palazzo Blu."
+    caption: "Fig. 4, Cecco di Pietro, Madonna con il Bambino in trono e santi (polittico di Agnano), Pisa, Palazzo Blu."
     manifestId:  
     canvasId: 
     zoom: true
@@ -86,21 +86,21 @@ figure_list:
 
   - id: "cat-8_1"
     src: figures/8_1.JPG
-    caption: "Fig.1, Simone di Filippo, detto “dei Crocifissi”, Madonna con il Bambino in trono e angeli. Modena, Galleria Estense. Visione del retro della tavola."
+    caption: "Fig. 1, Simone di Filippo, detto “dei Crocifissi”, Madonna con il Bambino in trono e angeli. Modena, Galleria Estense. Visione del retro della tavola."
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/ce29cc6c-19f5-44d3-8c27-1a6c3c7e3ff7/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/ce29cc6c-19f5-44d3-8c27-1a6c3c7e3ff7/canvas/1c8ffe6b-d86d-4274-9c6c-4cea5a5576f4
     zoom: true
 
   - id: "cat-8_2"
     src: 
-    caption: "Fig.2, Simone di Filippo, detto “dei Crocifissi”, Incoronazione della Vergine. Già Torino, collezione privata."
+    caption: "Fig. 2, Simone di Filippo, detto “dei Crocifissi”, Incoronazione della Vergine. Già Torino, collezione privata."
     manifestId: 
     canvasId: 
     zoom: true
 
   - id: "cat-8_3"
     src: 
-    caption: "Fig.3, Simone di Filippo, detto “dei Crocifissi”, Madonna con il Bambino in trono, angeli e il donatore Giovanni da Piacenza. Bologna, Pinacoteca Nazionale."
+    caption: "Fig. 3, Simone di Filippo, detto “dei Crocifissi”, Madonna con il Bambino in trono, angeli e il donatore Giovanni da Piacenza. Bologna, Pinacoteca Nazionale."
     manifestId: 
     canvasId: 
     zoom: true
@@ -121,28 +121,28 @@ figure_list:
 
   - id: "cat-9_1"
     src: figures/9_1.jpg
-    caption: "Fig.1, Maestro del polittico di Torre di Palme, Madonna dell’umiltà, Cristo in pietà, quattro santi e l’Annunciazione. Modena, Galleria Estense. Visione del retro della tavola."
+    caption: "Fig. 1, Maestro del polittico di Torre di Palme, Madonna dell’umiltà, Cristo in pietà, quattro santi e l’Annunciazione. Modena, Galleria Estense. Visione del retro della tavola."
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/6c1f69d2-147e-496b-a0a2-8e8e07c50e53/manifest
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/6c1f69d2-147e-496b-a0a2-8e8e07c50e53/canvas/dd80b1c7-cc81-458e-80bb-9f546fbdf381
     zoom: true
 
   - id: "cat-9_2"
     src: 
-    caption: "Fig.2, Maestro del polittico di Torre di Palme, Madonna dell’umiltà, Cristo in pietà, quattro santi e l’Annunciazione. Boston, Isabella Steward Gardner Museum."
+    caption: "Fig. 2, Maestro del polittico di Torre di Palme, Madonna dell’umiltà, Cristo in pietà, quattro santi e l’Annunciazione. Boston, Isabella Steward Gardner Museum."
     manifestId: 
     canvasId: 
     zoom: true
 
   - id: "cat-9_3"
     src: 
-    caption: "Fig.3, Maestro del polittico di Torre di Palme, Incoronazione della Vergine, Crocifissione, quattro santi e l’Annunciazione. Pavia, Pinacoteca Malaspina."
+    caption: "Fig. 3, Maestro del polittico di Torre di Palme, Incoronazione della Vergine, Crocifissione, quattro santi e l’Annunciazione. Pavia, Pinacoteca Malaspina."
     manifestId: 
     canvasId: 
     zoom: true
 
   - id: "cat-9_4"
     src: 
-    caption: "Fig.4, Maestro del polittico di Torre di Palme (?), Madonna dell’umiltà, Crocifissione, quattro santi e l’Annunciazione. Già Vienna, Galleria Silberman."
+    caption: "Fig. 4, Maestro del polittico di Torre di Palme (?), Madonna dell’umiltà, Crocifissione, quattro santi e l’Annunciazione. Già Vienna, Galleria Silberman."
     manifestId: 
     canvasId: 
     zoom: true
@@ -499,7 +499,7 @@ figure_list:
 
   - id: "cat-36_2"
     src: figures/36_2.jpg
-    caption: "Fig.2, Ercole de’ Roberti, La moglie di Asdrubale, Washington, D.C., National Gallery of Art"
+    caption: "Fig. 2, Ercole de’ Roberti, La moglie di Asdrubale, Washington, D.C., National Gallery of Art"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/64c0a71e-70b4-44cb-b1ea-0427846deb98/manifest 
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/64c0a71e-70b4-44cb-b1ea-0427846deb98/canvas/e4ba1dcc-65d5-4e16-9f3a-ee64f2bf51ab 
     zoom: true
