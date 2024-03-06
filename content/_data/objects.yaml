@@ -149,7 +149,7 @@ object_list:
     dimensioni: 24 x 28,7 x 1 cm; 23,5 x 27,5 x 1 cm; 23 x 26,2 x 0,8 cm; 24,3 x 29 x 1 cm; 23 x 29 x 0,5 cm
     collocazione: Modena, Galleria Estense, Sala 3
     inventario: R.C.G.E. 4183
-    iscrizioni e timbri: Sul retro alcuni scomparti presentano un timbro della Soprintendenza alle Gallerie di Modena; a tergo del Supplizio di san Giovanni evangelista è incollato un cartellino, di cui sopravvive un frammento illeggibile; varie iscrizioni alfanumeriche recenti indicano la successione dei pannelli. Sul retro della cornice è impresso a timbro il numero 7542 e nello spessore destro vi è un’etichetta correlata all’inventario del 1924, ove è vergato un numero non decifrabile
+    iscrizioni e timbri: Sul retro alcuni scomparti presentano un timbro della Soprintendenza alle Gallerie di Modena; a tergo del *Supplizio di san Giovanni evangelista* è incollato un cartellino, di cui sopravvive un frammento illeggibile; varie iscrizioni alfanumeriche recenti indicano la successione dei pannelli. Sul retro della cornice è impresso a timbro il numero 7542 e nello spessore destro vi è un’etichetta correlata all’inventario del 1924, ove è vergato un numero non decifrabile
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819315_Esequie%20di%20san%20Zenobi;%20Martirio%20di%20sant'Andrea;%20Deposizione%20di%20Cristo;%20Martirio%20di%20san%20Giovanni%20Evangelista;%20Martirio%20di%20santa%20Caterina%20d'Alessandria
     figure:
       - id: "cat-12"
@@ -423,7 +423,7 @@ object_list:
       - id: "cat-35"
 
   - id: 36
-    artista: Ercole de’ Roberti (Ferrara, 1450 ca. - 1496) e collaboratore (Giovan Francesco Maineri ?)
+    artista: Ercole de’ Roberti e collaboratore (Giovan Francesco Maineri ?)
     titolo: Lucrezia, Bruto e Collatino
     datazione: ca. 1489 - 1493
     supporto: Olio e tempera (?) su tavola
