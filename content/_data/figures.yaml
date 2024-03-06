@@ -30,7 +30,7 @@ figure_list:
 
   - id: "cat-4_1"
     src: figures/4_1.jpg
-    caption: "Fig. 1, Francesco di Neri da Volterra, Madonna con il Bambino in trono, angeli e donatori, Modena, Galleria Estense. Immagine del retro della tavola."
+    caption: "Fig. 1, Francesco di Neri da Volterra, *Madonna con il Bambino in trono, angeli e donatori*, Modena, Galleria Estense. Immagine del retro della tavola."
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/5a14d621-acca-4aaf-83cb-ed74776826c8/manifest 
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/5a14d621-acca-4aaf-83cb-ed74776826c8/canvas/3f2c09e2-033c-4339-a768-25c7ef52d8cd 
     zoom: true
