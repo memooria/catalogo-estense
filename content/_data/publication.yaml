@@ -48,12 +48,12 @@ contributor_as_it_appears:
 contributor:
   - id: jkeller
     type: primary
-    first_name: Martina
-    last_name: Bagnoli
+    first_name: Alessandra 
+    last_name: Necci
     title: Direttore Generale
     affiliation: Gallerie Estensi
-    bio: "Martina Bagnoli è dal Dicembre 2015 Direttore Generale delle Gallerie Estensi e dal Febbraio del 2022 presidente della Fondazione Europeana. Storica dell’arte per formazione, Martina Bagnoli ha oltre venti anni di esperienza in campo internazionale. Nata e cresciuta in Italia, ha compiuto i suoi studi universitari all’estero, prima all’Università di Cambridge dove ha conseguito una laurea e un Master e in seguito alla Johns Hopkins University di Baltimora dove ha ottenuto il suo dottorato con lode. Da anni impegnata nello studio dell’arte medioevale, ha al suo attivo un’importante bibliografia. Prima di diventare direttore delle Gallerie Estensi è stata direttore delle collezioni di arte medievale del Walters Art Museum di Baltimora, dove ha curato diverse esposizioni tra cui Treasures of Heaven. Saints, Relics and Devotion in Medieval Europe, organizzata in collaborazionecon il Cleveland Museum of Art e il British Museum, e A Feast for the Senses. Art and Experience in Medieval Europe. Martina Bagnoli ha insegnato in varie università americane, tra cui la Johns Hopkins University di Baltimora. Alle Gallerie Estensi, Bagnoli ha varato un vasto programma di trasformazioni per rendere il museo più accogliente e accessibile: dai riallestimenti, alle acquisizioni, dalla programmazione alla digitalizzazione della collezioni, anche introducendo novità di rilievo come, ad esempio, l’utilizzo di piattaforme di condivisione disponibili sul sito dell’Estense Digital Library(www.edl.beniculturali.it)."
-    image: figures/contributors/martinabagnoli.jpg
+    bio: "Nel dicembre 2023 Alessandra Necci è stata nominata Direttore – o Direttrice – delle Gallerie Estensi, che comprendono la Galleria Estense propriamente detta, la Biblioteca Estense e il Museo Lapidario Estense a Modena, palazzo Ducale a Sassuolo, la Pinacoteca di Palazzo dei Diamanti a Ferrara. Si è insediata nel gennaio 2024. Negli ultimi 10 anni l’attività professionale di Alessandra Necci è stata caratterizzata principalmente dalla stesura di biografie e articoli, da innumerevoli presentazioni di libri in varie città italiane. Al tempo stesso, si è accentuata l’attività come conferenziere e partecipante a convegni, forum, festival, incontri e tavole rotonde sui maggiori temi culturali e legati alla vita istituzionale e alla storia d’Italia e d’Europa. Nonché la presenza televisiva, sempre in qualità di storico."
+    image: figures/contributors/alessandranecci.jpg
 
   - id: mtoffanello
     type: secondary
@@ -61,7 +61,7 @@ contributor:
     last_name: Toffanello
     title: Curatore
     affiliation: Gallerie Estensi
-    bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac justo ac ipsum ultrices fermentum. Nulla facilisi. Duis vehicula efficitur justo, sit amet eleifend odio congue vitae. Quisque nec justo id risus interdum lobortis. Cras sollicitudin tortor at sapien consequat, auctor posuere justo consequat."
+    bio: "Marcello Toffanello è dal primo settembre direttore del Museo di Casa Romei e di Casa Minerbi del Sale. Entrato nel Ministero della Cultura nel 2012 come funzionario della Soprintendenza di Modena, è stato curatore delle collezioni rinascimentali delle Gallerie Estensi e della Pinacoteca Nazionale di palazzo Diamanti, Ferrara. Studioso di arte ferrarese del Rinascimento e dell'Ottocento ha curato e collaborato a mostre su questi argomenti in Italia e all'estero."
     image: figures/contributors/Marcello Toffanello.jpg
 
   - id: mminardi
