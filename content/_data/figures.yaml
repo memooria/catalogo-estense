@@ -522,7 +522,7 @@ figure_list:
     src: figures/36_5.jpg
     caption: "Fig. 5, Ercole de’ Roberti, *Lucrezia, Bruto e Collatino*. Modena, Galleria Estense. Particolare del dipinto che evidenzia la tecnica d’esecuzione."
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/f5a0cc76-3cb3-49f5-84df-9f5b82413a88/manifest 
-    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/f5a0cc76-3cb3-49f5-84df-9f5b82413a88/canvas/bf80654b-8770-43a4-9379-880bb77614a6
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/f5a0cc76-3cb3-49f5-84df-9f5b82413a88/canvas/f9eb1dbf-d389-4e32-91ba-a6b58ac15441
     zoom: true
 
   - id: "cat-36_6"
