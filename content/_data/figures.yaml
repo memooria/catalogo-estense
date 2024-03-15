@@ -11,7 +11,7 @@ figure_list:
     src: figures/2.jpg
     caption: "Wiligelmo, *Madonna col Bambino*"
     manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/69a7636c-3a3e-4236-b519-30554441d8d5/manifest
-    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/74f0b23b-f6a3-4c5c-aa2e-e0cdeb4ec752/canvas/2e84f277-10ce-4cce-892f-6ca76c2aa5b6
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/69a7636c-3a3e-4236-b519-30554441d8d5/canvas/a568e7a3-8dd6-4975-8a96-2f0743bdefc9
     zoom: true
 
   - id: "cat-3"
