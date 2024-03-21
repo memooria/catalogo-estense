@@ -46,8 +46,17 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: mtoffanello
     type: primary
+    first_name: Marcello 
+    last_name: Toffanello
+    title: Curatore
+    affiliation: Gallerie Estensi
+    bio: "Marcello Toffanello è dal primo settembre direttore del Museo di Casa Romei e di Casa Minerbi del Sale. Entrato nel Ministero della Cultura nel 2012 come funzionario della Soprintendenza di Modena, è stato curatore delle collezioni rinascimentali delle Gallerie Estensi e della Pinacoteca Nazionale di palazzo Diamanti, Ferrara. Studioso di arte ferrarese del Rinascimento e dell'Ottocento ha curato e collaborato a mostre su questi argomenti in Italia e all'estero."
+    image: figures/contributors/Marcello Toffanello.jpg
+
+  - id: anecci
+    type: secondary
     first_name: Alessandra 
     last_name: Necci
     title: Direttore Generale
@@ -55,14 +64,13 @@ contributor:
     bio: "Nel dicembre 2023 Alessandra Necci è stata nominata Direttore – o Direttrice – delle Gallerie Estensi, che comprendono la Galleria Estense propriamente detta, la Biblioteca Estense e il Museo Lapidario Estense a Modena, palazzo Ducale a Sassuolo, la Pinacoteca di Palazzo dei Diamanti a Ferrara. Si è insediata nel gennaio 2024. Negli ultimi 10 anni l’attività professionale di Alessandra Necci è stata caratterizzata principalmente dalla stesura di biografie e articoli, da innumerevoli presentazioni di libri in varie città italiane. Al tempo stesso, si è accentuata l’attività come conferenziere e partecipante a convegni, forum, festival, incontri e tavole rotonde sui maggiori temi culturali e legati alla vita istituzionale e alla storia d’Italia e d’Europa. Nonché la presenza televisiva, sempre in qualità di storico."
     image: figures/contributors/alessandranecci.jpg
 
-  - id: mtoffanello
+  - id: mbagnoli
     type: secondary
-    first_name: Marcello
-    last_name: Toffanello
-    title: Curatore
-    affiliation: Gallerie Estensi
-    bio: "Marcello Toffanello è dal primo settembre direttore del Museo di Casa Romei e di Casa Minerbi del Sale. Entrato nel Ministero della Cultura nel 2012 come funzionario della Soprintendenza di Modena, è stato curatore delle collezioni rinascimentali delle Gallerie Estensi e della Pinacoteca Nazionale di palazzo Diamanti, Ferrara. Studioso di arte ferrarese del Rinascimento e dell'Ottocento ha curato e collaborato a mostre su questi argomenti in Italia e all'estero."
-    image: figures/contributors/Marcello Toffanello.jpg
+    first_name: Martina
+    last_name: Bagnoli
+    affiliation:
+    bio: "Direttore di museo con vasta esperienza internazionale e comprovata capacità di sviluppare e attuare una visione strategica per grandi istituzioni museali. Forte competenza nella progettazione, negoziazione e attuazione di cambiamenti aziendali al fine di sviluppare approcci innovativi al patrimonio museale e artistico per una sua efficace conservazione, valorizzazione e fruizione. Storica dell’arte di fama e curatrice di importanti esposizioni internazionali con all’attivo più di 130 tra mostre, pubblicazioni, docenze accademiche e conferenze. Esperta comunicatrice con una solida esperienza nella raccolta fondi e nella costruzione di partnership, Martina Bagnoli è una appassionata sostenitrice del ruolo dell'arte nella società. Dal 2015 a gennaio 2024 è stata direttrice delle Gallerie Estensi, un museo autonomo del Ministero della Cultura italiano che comprende la Galleria Estense di Modena, la Biblioteca Estense universitaria, il Museo lapidario, il Palazzo ducale di Sassuolo e la Pinacoteca nazionale di Ferrara. In precedenza, dal 2002 al 2015, Bagnoli è stata curatrice di arte medievale per il Walters Art Museum. Da febbraio 2024 dirige l'Accademia Carrara di Bergamo."
+    image: figures/contributors/martinabagnoli.jpg
 
   - id: mminardi
     type: secondary
