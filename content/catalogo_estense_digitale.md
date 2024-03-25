@@ -4,8 +4,6 @@ subtitle: un nuovo strumento di valorizzazione del patrimonio estense
 layout: essay
 order: 30
 class: page-one
-contributor:
-  - id:
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam commodo magna ac mauris convallis lacinia. Sed vestibulum fermentum elit, nec commodo lectus interdum ac. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ut fringilla urna. Quisque consequat justo id libero consequat, in tristique risus eleifend. Proin sed odio eget lacus suscipit congue. Suspendisse at ligula eu mi fermentum congue. Vivamus dapibus, quam eu placerat dapibus, purus libero eleifend elit, nec dictum turpis metus vitae lectus. Maecenas rutrum ex ac nisi bibendum, ac lacinia nisi sodales. Nulla facilisi. Integer vitae ex justo. Donec pharetra vitae lectus ut feugiat. Nunc sollicitudin augue id justo feugiat vestibulum.
