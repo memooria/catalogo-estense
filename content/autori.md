@@ -1,5 +1,5 @@
 ---
-title: Curatori
+title: Autori
 layout: page
 order: 501
 ---
