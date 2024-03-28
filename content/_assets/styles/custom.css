@@ -21,10 +21,6 @@ h4 {
     font-weight: 400;
 }
 
-.quire-contributor {
-    display: none;
-}
-
 @media only screen and (max-width: 800px) {
     .quire-navbar-controls__center {
         display: none;
