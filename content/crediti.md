@@ -29,3 +29,4 @@ Cesare Bordi, Back-end Developer
 Francesco Gavioli, Digital Humanities Specialist - Haltadefinizione Srl
 Vincenzo Melita, Design Manager - Haltadefinizione Srl
 Lucia Panini, Presidente - Haltadefinizione Srl
+Alessandro Vicenzi, Senior Editor - Franco Cosimo Panini Editore
