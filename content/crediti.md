@@ -4,7 +4,9 @@ layout: page
 order: 503
 ---
 
+
 Alessandra Necci, Direttrice Gallerie Estensi 
+
 
 
 #### Direttrice del progetto
@@ -12,11 +14,13 @@ Alessandra Necci, Direttrice Gallerie Estensi
 Martina Bagnoli, Direttrice Accademia Carrara di Bergamo e già Direttice Gallerie Estensi
 
 
+
 #### Team Curatoriale
 
 Marcello Calogero, Studioso indipendente
 Mauro Minardi, Studioso indipendente
 Marcello Toffanello, Direttore Museo di Casa Romei e Casa Minerbi del Sale
+
 
 
 #### Team Editing, Design e PM
