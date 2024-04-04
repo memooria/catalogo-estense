@@ -27,7 +27,13 @@ h4 {
     }
 }
 
+.quire-menu__header__contributors {
+    display: none;
+}
 
+.quire-cover__hero-body .quire-contributor {
+    display: none;
+}
 /*******************************/
 /* ACCORDION                   */
 /*******************************/
