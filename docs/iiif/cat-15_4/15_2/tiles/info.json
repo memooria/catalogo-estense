@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://catalogo-estense.memooria.org/iiif/cat-15_4/15_2/tiles",
+  "@id": "https://francescogavioli-gallerie-estensi.memooria.org/iiif/cat-15_4/15_2/tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {

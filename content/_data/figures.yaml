@@ -92,17 +92,17 @@ figure_list:
     zoom: true
 
   - id: "cat-8_2"
-    src: 
-    caption: "Fig. 2, Simone di Filippo, detto “dei Crocifissi”, *Incoronazione della Vergine*. Già Torino, collezione privata."
-    manifestId: 
-    canvasId: 
+    src: figures/8_2.jpg
+    caption: "Fig. 2, Simone di Filippo, detto “dei Crocifissi”, *Incoronazione della Vergine*. Già Torino, collezione privata. Fototeca della Fondazione Federico Zeri, Bologna."
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/5e4c58b4-7b7a-4d88-84e2-8952d85d0269/manifest 
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/5e4c58b4-7b7a-4d88-84e2-8952d85d0269/canvas/83f28a9d-632d-49a6-93e8-1bf7b4ae82f7
     zoom: true
 
   - id: "cat-8_3"
-    src: 
-    caption: "Fig. 3, Simone di Filippo, detto “dei Crocifissi”, *Madonna con il Bambino in trono, angeli e il donatore Giovanni da Piacenza*. Bologna, Pinacoteca Nazionale."
-    manifestId: 
-    canvasId: 
+    src: figures/8_3.tif
+    caption: "Fig. 3, Simone di Filippo, detto “dei Crocifissi”, *Madonna con il Bambino in trono, angeli e il donatore Giovanni da Piacenza*. Bologna, Pinacoteca Nazionale. Su concessione del Ministero della Cultura - Pinacoteca Nazionale di Bologna."
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/f7d55586-0dbe-4835-95a1-5ef580482573/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/f7d55586-0dbe-4835-95a1-5ef580482573/canvas/f8f4a5a3-33db-49df-aa3a-84854e080037
     zoom: true
 
   - id: "cat-8_4"
@@ -134,17 +134,17 @@ figure_list:
     zoom: true
 
   - id: "cat-9_3"
-    src: 
-    caption: "Fig. 3, Maestro del polittico di Torre di Palme, *Incoronazione della Vergine, Crocifissione, quattro santi e l’Annunciazione*. Pavia, Pinacoteca Malaspina."
-    manifestId: 
-    canvasId: 
+    src: figures/9_3.jpg
+    caption: "Fig. 3, Maestro del polittico di Torre di Palme, *Incoronazione della Vergine, Crocifissione, quattro santi e l’Annunciazione*. Pavia, Pinacoteca Malaspina. Fototeca dei Musei Civici di Pavia - Pinacoteca Malaspina."
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/cc625ba9-c0d5-4f88-849f-d24b954fa71a/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/cc625ba9-c0d5-4f88-849f-d24b954fa71a/canvas/f43c7ca3-b711-462c-b176-7d70be0ac794
     zoom: true
 
   - id: "cat-9_4"
-    src: 
-    caption: "Fig. 4, Maestro del polittico di Torre di Palme (?), *Madonna dell’umiltà, Crocifissione, quattro santi e l’Annunciazione*. Già Vienna, Galleria Silberman."
-    manifestId: 
-    canvasId: 
+    src: figures/9_4.jpg
+    caption: "Fig. 4, Maestro del polittico di Torre di Palme (?), *Madonna dell’umiltà, Crocifissione, quattro santi e l’Annunciazione*. Già Vienna, Galleria Silberman. Fototeca della Fondazione Federico Zeri, Bologna."
+    manifestId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/6b0b51cd-195a-433c-bc7a-f8d9e1cdb351/manifest
+    canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/6b0b51cd-195a-433c-bc7a-f8d9e1cdb351/canvas/a87ad1ba-a85d-46b8-9e83-014d287b8efe
     zoom: true
 
   - id: "cat-10"  
@@ -616,4 +616,3 @@ figure_list:
     canvasId: https://gallerie-estensi.jarvis.memooria.org/meta/iiif/7026a8ec-67cc-45a0-bef9-ba0c0fcdb3dc/canvas/34e440f1-3035-45c4-b348-26d7408ad342
     zoom: true
   
-

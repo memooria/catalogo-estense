@@ -104,6 +104,8 @@ object_list:
     figure:
       - id: "cat-8"
       - id: "cat-8_1"
+      - id: "cat-8_2"
+      - id: "cat-8_3"
 
   - id: 9
     artista: Maestro del polittico di Torre di Palme (attivo nell’ultimo quarto del XIV sec. e agli inizi del XV sec.) 
@@ -118,6 +120,8 @@ object_list:
     figure:
       - id: "cat-9"
       - id: "cat-9_1"
+      - id: "cat-9_3"
+      - id: "cat-9_4"
       
   - id: 10
     artista: Paolo di Giovanni Fei (attribuito a)	
@@ -552,3 +556,5 @@ object_list:
     link: https://gallerie-estensi.beniculturali.it/opere/collezioni/#/dettaglio/819826_Ritratto%20di%20giovinetto
     figure:
       - id: "cat-46" 
+
+      
