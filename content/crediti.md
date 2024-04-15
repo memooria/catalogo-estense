@@ -5,28 +5,28 @@ order: 503
 ---
 
 
-Alessandra Necci, Direttrice Gallerie Estensi 
+#### Direttrice Galleri Estensi
+
+Alessandra Necci
 
 
+#### Ideazione del progetto
 
-#### Direttrice del progetto
-
-Martina Bagnoli, Direttrice Accademia Carrara di Bergamo e già Direttice Gallerie Estensi
-
+Martina Bagnoli, Direttrice Accademia Carrara di Bergamo 
 
 
 #### Team Curatoriale
 
-Marcello Calogero, Studioso indipendente
-Mauro Minardi, Studioso indipendente
-Marcello Toffanello, Direttore Museo di Casa Romei e Casa Minerbi del Sale
+Marcello Toffanello, Direttore Museo di Casa Romei, curatore
+Lucia Anna Margari, Gallerie Estensi, restauratrice
+Mauro Minardi, studioso indipendente, autore
 
 
 
 #### Team Editing, Design e PM
 
+Lucia Panini, Presidente Haltadefinizione Srl, supervisore
 Cesare Bordi, Back-end Developer
-Francesco Gavioli, Digital Humanities Specialist - Haltadefinizione Srl
-Vincenzo Melita, Design Manager - Haltadefinizione Srl
-Lucia Panini, Presidente - Haltadefinizione Srl
-Alessandro Vicenzi, Senior Editor - Franco Cosimo Panini Editore
+Francesco Gavioli, Haltadefinizione Srl, Digital Humanities Specialist
+Vincenzo Melita, Haltadefinizione Srl, Design Manager
+Alessandro Vicenzi, Franco Cosimo Panini Editore, Senior Editor
